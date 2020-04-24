@@ -42,7 +42,7 @@ To note the datasets can be swapped for other data, and this can be amended in L
 
 ### Dictionary 
 
-A nested dictionaries was built in order to rename values and variables to comprehensible and meaningful names. The input data is the F&Y survey guide.
+A nested dictionary was built in order to rename values and variables to comprehensible and meaningful names. The input data is the F&Y survey guide.
 
 ### Custom bar plotting functions
 
