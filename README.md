@@ -46,8 +46,8 @@ Hosted and organised by [Pivigo](https://www.pivigo.com/)
 * `S2DS-2020_FSA_Wales_case_study.pdf` - executive summary of the challenge, approach, findings, impact and recommendations 
 
 ### `graphs`
-* Graphs within the PDFs starting with `foodBehaviour_` can also be visuialized in the dashboard provided here. A greater variety of graphs related to food behaviours by demographics can be visualized on demand by using the dahboard.
-* All other PDFs contain graphs that can be plotted only by running the notebook. These are exhaustive in light of the current data.
+* Graphs within the `.pdf` files starting with `foodBehaviour_` can also be visuialized in the dashboard provided here. A greater variety of graphs related to food behaviours by demographics can be visualized on demand by using the dahboard.
+* All other `.pdf` files contain graphs that can be plotted only by running the notebook. These are exhaustive in light of the current data.
 
 ### `notebooks` 
 * `masterscript_with_markdown.ipynb` includes all the code developed for the project. For details, see below.
