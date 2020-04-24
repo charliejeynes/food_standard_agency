@@ -40,7 +40,7 @@ To note the datasets can be swapped for other data, and this can be amended in L
 
 ## Repository structure
 
-`**app**` - includes everything required to run the dashboard. The .ipynb file, together with the software requirements and the F&Y .csv files \
+**`app`** - includes everything required to run the dashboard. The .ipynb file, together with the software requirements and the F&Y .csv files \
 `**data**` 
 * the `microdata_census2011_Wales_prepared.csv` has all the comparable demographic data from the Census 2011. This includes only the Wales entries for ~7/120 demographics
 
