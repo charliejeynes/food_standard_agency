@@ -12,10 +12,10 @@ Wales is demographically distinct to the rest of the UK, being less populous, mo
 
 ## Team
 
-Mishka Nemes - [Private GitHub](https://github.com/mihaelanemes) \
+James Doherty - [Private GitHub](https://github.com/jimmyd83) \
 Lorena Garcia Perez - [Private GitHub](https://github.com/lorena-gp) \
 Charlie Jeynes - [Private GitHub](https://github.com/charliejeynes) \
-James Doherty - [Private GitHub](https://github.com/jimmyd83) 
+Mishka Nemes - [Private GitHub](https://github.com/mihaelanemes) 
 
 
 ## Timeline
@@ -38,7 +38,13 @@ To note the datasets can be swapped for other data, and this can be amended in L
 **Census** - given the higher granularity of the data, data was aggregated to reflect the answer labels in F&Y in order to allow direct comparison. There were no missing values as all demographics were provided for each respondent.
 
 
-## Contents
+## Repository structure
+
+`**app**` - includes everything required to run the dashboard. The .ipynb file, together with the software requirements and the F&Y .csv files \
+`**data**` 
+* the `microdata_census2011_Wales_prepared.csv` has all the comparable demographic data from the Census 2011. This includes only the Wales entries for ~7/120 demographics
+
+## Masterscript
 
 The data loading, data wrangling and data analysis (all below functions) are compiled in the `notebooks/masterscript_with_markdown`
 
