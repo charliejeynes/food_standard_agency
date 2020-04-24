@@ -40,6 +40,8 @@ To note the datasets can be swapped for other data, and this can be amended in L
 
 ## Contents
 
+The data loading, data wrangling and data analysis (all below functions) are compiled in the `notebooks/masterscript_with_markdown`
+
 ### Dictionary 
 
 A nested dictionary was built in order to rename values and variables to comprehensible and meaningful names. The input data is the F&Y survey guide.
