@@ -46,7 +46,8 @@ Nested dictionaries to rename values and variables to comprehensible and meaning
 
 ### Custom bar plotting functions
 
-`custom_barplots` is the main function that plots the data that is parsed when the function is called. The output is horizontal barplots that indicate the confidence intervals (variation in the data) and the mean percentage values. It calls the dictionary to input the relevant question and answer names in the axis labels and the legend. 
+`custom_barplots` is the main function that plots the data that is parsed when the function is called. The output is horizontal barplots that indicate the confidence intervals (variation in the data) and the mean percentage values. It calls the dictionary to input the relevant question and answer names in the axis labels and the legend. \
+`custom_lineplots` takes the F&Y data and plots it over time (i.e. survey years) and yields a group of plots side by side that can illustrate how a certain variable changes over time according to a third variable (e.g. country).
 
 
 
@@ -56,6 +57,7 @@ Principal Component Analysis (PCA) was used to explore the raw data in order to 
 
 
 ### Demographic Analysis and Visualization
+
 
 
 ### Statistical Analysis
