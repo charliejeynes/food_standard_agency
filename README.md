@@ -41,8 +41,16 @@ To note the datasets can be swapped for other data, and this can be amended in L
 ## Repository structure
 
 **`app`** - includes everything required to run the dashboard. The .ipynb file, together with the software requirements and the F&Y .csv files \
-`**data**` 
-* the `microdata_census2011_Wales_prepared.csv` has all the comparable demographic data from the Census 2011. This includes only the Wales entries for ~7/120 demographics
+**`data`** 
+*  `microdata_census2011_Wales_prepared.csv` has all the comparable demographic data from the Census 2011. This includes only the Wales entries for ~7/120 demographics
+*  `survey.csv` includes F&Y survey data from waves 1-5
+*  `survey_guide_values.csv` includes data to be parsed in the dictionary that encodes answers names 
+*  `survey_guide_variables.csv` includes data to be parsed in the dictionary that encodes question names 
+**`documents`** 
+* `S2DS-2020_FSA_Wales_presentation.pdf` - summary presentation for the Pivigo audience presented on 23rd of April 2020
+* `S2DS-2020_FSA_Wales_case_study.pdf` - executive summary of the main approaches, findings and recommendations. 
+
+
 
 ## Masterscript
 
