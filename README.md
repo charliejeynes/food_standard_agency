@@ -12,10 +12,10 @@ Wales is demographically distinct to the rest of the UK, being less populous, mo
 
 ## Team
 
-James Doherty - [Private GitHub](https://github.com/jimmyd83) \
-Lorena Garcia-Perez - [Private GitHub](https://github.com/lorena-gp) \
-Charlie Jeynes - [Private GitHub](https://github.com/charliejeynes) \
-Mishka Nemes - [Private GitHub](https://github.com/mihaelanemes) 
+James Doherty - [Personal GitHub](https://github.com/jimmyd83) \
+Lorena Garcia-Perez - [Personal GitHub](https://github.com/lorena-gp) \
+Charlie Jeynes - [Personal GitHub](https://github.com/charliejeynes) \
+Mishka Nemes - [Personal GitHub](https://github.com/mihaelanemes) 
 
 
 ## Timeline
