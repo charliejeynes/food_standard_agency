@@ -39,7 +39,12 @@ To note the datasets can be swapped for other data, and this can be amended in L
 Nested dictionaries to rename values and variables to comprehensible and meaningful names. The input data is the F&Y survey guide.
 
 ### Custom bar plotting functions
-Exploratory Data Analysis - Principal Component Analysis (PCA)
+
+[custom_barplots] is the main function that plots the data that is parsed when the function is called. The output is horizontal barplots that indicate the confidence intervals (variation in the data) and the mean percentage values.
+
+### Exploratory Data Analysis - Principal Component Analysis (PCA)
+
+
 Demographic Analysis and Visualization
 Statistical Analysis 
 Food Behaviour Analysis
