@@ -13,7 +13,7 @@ Wales is demographically distinct to the rest of the UK, being less populous, mo
 ## Team
 
 James Doherty - [Private GitHub](https://github.com/jimmyd83) \
-Lorena Garcia Perez - [Private GitHub](https://github.com/lorena-gp) \
+Lorena Garcia-Perez - [Private GitHub](https://github.com/lorena-gp) \
 Charlie Jeynes - [Private GitHub](https://github.com/charliejeynes) \
 Mishka Nemes - [Private GitHub](https://github.com/mihaelanemes) 
 
@@ -30,11 +30,9 @@ Hosted and organised by [Pivigo](https://www.pivigo.com/)
 [Census 2011 - microdata with individual entries](https://www.ons.gov.uk/census/2011census/2011censusdata/censusmicrodata/securemicrodata): For data download (isg_regionv2.csv), an account needs to be created [here](https://www.ukdataservice.ac.uk/get-data/how-to-access/registration)
 
 
-To note the datasets can be swapped for other data, and this can be amended in Line 2 of the masterscript.
-
 ## Data wrangling 
 
-**F&Y** - missing values in the questions answers encoded by negative value when respondents did not answer questions are all encoded as `NaN`  - apart from the principle component analysis where the data is kept in its original state.  
+**F&Y survey** - values encoded as 'Not applicable' or 'Not known' were encoded as `NaN`  - apart from the principle component analysis where the data was kept in its original state.  
 
 **Census** - given the higher granularity of the data, data was aggregated to reflect the answer labels in F&Y in order to allow direct comparison. There were no missing values as all demographics were provided for each respondent.
 
@@ -42,80 +40,66 @@ To note the datasets can be swapped for other data, and this can be amended in L
 ## Repository structure
 
 ### `app`
-* includes everything required to run the dashboard. The .ipynb file, together with the software requirements and the F&Y .csv files 
+* includes everything required to run the dashboard (the .ipynb file, together with a requirements.txt and the F&Y survey .csv data files). Instructions about which settings to use to run the app from the https://mybinder.org/ website are provided in a .png file. In order to have this app available for anyone online, the relevant files must be localted in a public repository. 
 
 ### `data`
-*  `microdata_census2011_Wales_prepared.csv` has all the comparable demographic data from the Census 2011. This includes only the Wales entries for ~7/120 demographics
-*  `survey.csv` includes F&Y survey data from waves 1-5
-*  `survey_guide_values.csv` includes data to be parsed in the dictionary that encodes answers names 
-*  `survey_guide_variables.csv` includes data to be parsed in the dictionary that encodes question names 
+*  `microdata_census2011_Wales_prepared.csv` has all the relevant demographic data from the 2011 Census. This includes only the Wales entries for 7 out of 120 original demographics.
+*  `survey.csv` includes F&Y survey data from waves 1-5, for Wales, England and Northern Ireland
+*  `survey_guide_values.csv` includes data to be parsed in the dictionary that translates answers names 
+*  `survey_guide_variables.csv` includes data to be parsed in the dictionary that translates question names 
 
 ### `documents`
-* `S2DS-2020_FSA_Wales_presentation.pdf` - summary presentation for the Pivigo audience presented on 23rd of April 2020
-* `S2DS-2020_FSA_Wales_case_study.pdf` - executive summary of the main approaches, findings and recommendations 
+* `S2DS-2020_FSA_Wales_presentation.pdf` - project presentation for the S2DS programme, presented on 23rd of April 2020
+* `S2DS-2020_FSA_Wales_case_study.pdf` - executive summary of the challenge, approach, findings, impact and recommendations 
 
 ### `graphs`
-* PDFs starting with `foodBehaviour_` can be executed in the dashboard, many other options for plotting can be selected
-* All other PDFs can be plotted only by running the notebook. These are exhaustive in light of the current data.
+* Graphs within the PDFs starting with `foodBehaviour_` can also be visuialized in the dashboard provided here. A greater variety of graphs related to food behaviours by demographics can be visualized on demand by using the dahboard.
+* All other PDFs contain graphs that can be plotted only by running the notebook. These are exhaustive in light of the current data.
 
 ### `notebooks` 
-* `masterscript_with_markdown.ipynb` includes all the code built throughout the project. For details, see below.
+* `masterscript_with_markdown.ipynb` includes all the code developed for the project. For details, see below.
 
 
 
-## Masterscript
+## Code
 
-The data loading, data wrangling and data analysis (all below functions) are compiled in the `notebooks/masterscript_with_markdown`
+Data loading, data wrangling and data analysis are carried out in the `notebooks/masterscript_with_markdown`
 
 ### Dictionary 
 
-A nested dictionary was built in order to rename values and variables to comprehensible and meaningful names. The input data is the F&Y survey guide.
+Two dictionaries were built. The first one translates question names from their short version to their longer, comprehensible, version. The second is a nested dictionary that translates individual answers to each question from their numeric code to a meaningful answer. Their input data is provided in this repository.
 
 ### Custom bar plotting functions
 
-`custom_barplots` is the main function that plots the data that is parsed when the function is called. The output is horizontal barplots that indicate the confidence intervals (variation in the data) and the mean percentage values. It calls the dictionary to input the relevant question and answer names in the axis labels and the legend. \
-`custom_lineplots` takes the F&Y data to plot it over time (i.e. survey years) and yields a group of plots side by side that can illustrate how a certain variable changes over temporally according to a third variable (e.g. country). The output is  lineplots that indicate the confidence intervals (variation in the data) and the number of respondents in each category. It calls the dictionary to input the relevant question and answer names in the axis labels and the legend. 
+`custom_barplots` is a custom plotting function that outputs horizontal barplots with the percentage of people giving a certain answer, and 95% confidence intervals error bars. The names for each of the relevant questions and answers are displayed automatically for each plot title, axis labels and legend thanks to the use of the two dictionaries built. \
+`custom_lineplots` is a custom plotting function that ouputs lineplots showing the temporal evolution of the F&Y survey demographics, for Wales, England and Northern Ireland (whose results appear side-by-side, for ease of comparison between the trends for these UK countries). 95% confidence intervals error bars are also displayed, together with the number of respondents (n) and the specific percentage represented by each category. The names for each of the relevant questions and answers are displayed automatically for each plot title, axis labels and legend thanks to the use of the two dictionaries built.
 
+### Data Visualization
 
+Principal Component Analysis (PCA) is used to explore the raw data in order to understand global patterns present within the whole F&Y dataset for Wales.
 
-### Exploratory Data Analysis
+A timeline of the evolution of the F&Y survey demographics is plotted using `custom_lineplots`. 
 
-Principal Component Analysis (PCA) was used to explore the raw data in order to understand generic patterns when inputing all the data from F&Y.
+Demographic variables (age, gender, marital status, religion, health status, work status, deprivation) are compared between the F&Y survey and the census using `custom_barplots`. 
 
-
-### Data Analysis and Visualization
-
-A timeline of percentage representation of F&Y demographics is plotted for the F&Y only using `custom_lineplots`. 
-
-Demographic variables (age, gender, marital status, religion, health status, work status, deprivation) are compared between F&Y and Census using `custom_barplots`. 
-
-A similar analysis can be applied on selected questions of interest related to risky food behaviour, but only on data collected from F&Y as the census presents demographic data only.
- 
+Demographic variables are also taken into consideration for the analysis of questions of interest related to food safety, using the F&Y survey data and `custom_barplots`.
 
 ### Statistical Analysis
 
-The statistical analysis carried out here is using `chi square` as the data is non-parametric (due to the categorical values nature). It tests for statistical significance between different subgroups of data.
+To evaluate the significance of the differences under study, `chi square` statistical testing is carried out (being the survey and census datasets non-parametric).
 
-### Correlation Analysis
+### Correlation Analysis and Predictive Modelling
 
-A correlation analysis was performed on the F&Y data to identify potential questions that highly correlate or anticorrelate with food poisoning risk. This analysis could lay the foundations for building a predictive model, although further work is required.
+Correlation analysis is performed on the F&Y survey data to identify which features (questions and their respective answers) correlate the most, positevely or negatively, with the risk of suffering food poisoning.  A preliminary precitive model is also developed, which informs again about the set of the features most relevant for determining food poisoning risk. To fully assess the predictive capability of this model, further work is required.
+
 
 ## Interactive Dashboard
 
+### On the notebook
+The dashboard components can be executed within the notebook, where further instructions are included.
 
-### In the notebook
-
-Instructions on how to run the dashboard yourself are provided in the notebook. 
-
-### On Binder 
-
-In order to run the dashboard online, without the need to run the script, it can be accessed as below:
-* go to [Binder](https://mybinder.org/) to launch the repository held remotely 
-* select GitHub under __GitHub repository name or URL__ and insert `lorena-gp/food-standards-agency_app`
+### On a website
+In order to access the dashboard online:
+* go to [Binder](https://mybinder.org/)
+* select GitHub under __GitHub repository name or URL__ and insert the appropiate path name (for example, `my-repository/app`) for the remote open repository where the dashboard code is hosted (such as the `app` folder in here). 
 * select URL under __Path to a notebook file (optional)__ and insert `voila/render/Food-and-You-survey_risks.ipynb`
-
-### Using the app code provided in the `app` folder
-
-## Licensing
-
-This note is to remind the FSA team that an appropriate software licence should be issued. 
