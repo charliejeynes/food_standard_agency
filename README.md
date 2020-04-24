@@ -42,13 +42,19 @@ Nested dictionaries to rename values and variables to comprehensible and meaning
 
 [custom_barplots] is the main function that plots the data that is parsed when the function is called. The output is horizontal barplots that indicate the confidence intervals (variation in the data) and the mean percentage values.
 
-### Exploratory Data Analysis - Principal Component Analysis (PCA)
+### Exploratory Data Analysis
+Principal Component Analysis (PCA)
 
 
-Demographic Analysis and Visualization
-Statistical Analysis 
-Food Behaviour Analysis
-Correlation Analysis
+### Demographic Analysis and Visualization
+
+
+### Statistical Analysis
+
+### Food Behaviour Analysis
+
+
+### Correlation Analysis
 
 ## Interactive Dashboard
 
