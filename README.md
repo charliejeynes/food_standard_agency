@@ -20,7 +20,7 @@ Mishka Nemes - [Private GitHub](https://github.com/mihaelanemes)
 
 ## Timeline
 
-Science to Data Science Virtual School - 23rd of March to 24th of April 2020 \
+Science to Data Science Virtual - 23rd of March to 24th of April 2020 \
 Hosted and organised by [Pivigo](https://www.pivigo.com/)
 
 ## Data sources
@@ -33,7 +33,7 @@ Hosted and organised by [Pivigo](https://www.pivigo.com/)
 ## Repository structure
 
 ### `app`
-* includes everything required to run the dashboard (the .ipynb file, together with a requirements.txt and the F&Y survey .csv data files). Instructions about which settings to use to run the app from the https://mybinder.org/ website are provided in a .png file. In order to have this app available for anyone online, the relevant files must be localted in a public repository. 
+* includes everything required to run the dashboard (the `.ipynb` file, together with a requirements.txt and the F&Y survey `.csv` data files). Instructions about which settings to use to run the app from the https://mybinder.org/ website are provided in a `.png` file. In order to have this app available for anyone online, the relevant files must be localted in a public repository. 
 
 ### `data`
 *  `microdata_census2011_Wales_prepared.csv` has all the relevant demographic data from the 2011 Census. This includes only the Wales entries for 7 out of 120 original demographics.
