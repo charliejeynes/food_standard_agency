@@ -47,7 +47,7 @@ Nested dictionaries to rename values and variables to comprehensible and meaning
 ### Custom bar plotting functions
 
 `custom_barplots` is the main function that plots the data that is parsed when the function is called. The output is horizontal barplots that indicate the confidence intervals (variation in the data) and the mean percentage values. It calls the dictionary to input the relevant question and answer names in the axis labels and the legend. \
-`custom_lineplots` takes the F&Y data and plots it over time (i.e. survey years) and yields a group of plots side by side that can illustrate how a certain variable changes over time according to a third variable (e.g. country).
+`custom_lineplots` takes the F&Y data to plot it over time (i.e. survey years) and yields a group of plots side by side that can illustrate how a certain variable changes over temporally according to a third variable (e.g. country). The output is  lineplots that indicate the confidence intervals (variation in the data) and the number of respondents in each category. It calls the dictionary to input the relevant question and answer names in the axis labels and the legend. \
 
 
 
@@ -59,14 +59,22 @@ Principal Component Analysis (PCA) was used to explore the raw data in order to 
 ### Demographic Analysis and Visualization
 
 
-
-### Statistical Analysis
-
 ### Food Behaviour Analysis
 
+### Statistical Analysis
 
 ### Correlation Analysis
 
 ## Interactive Dashboard
 
 
+### In the notebook
+
+Instructions on how to run the dashboard yourself are provided in the notebook. 
+
+### On Binder 
+
+In order to run the dashboard online, without the need to run the script, it can be accessed as below:
+* go to [Binder](https://mybinder.org/) to launch the repository held remotely 
+* select GitHub under __GitHub repository name or URL__ and insert `lorena-gp/food-standards-agency_app`
+* select URL under __Path to a notebook file (optional)__ and insert `voila/render/Food-and-You-survey_risks.ipynb`
