@@ -88,3 +88,9 @@ In order to run the dashboard online, without the need to run the script, it can
 * go to [Binder](https://mybinder.org/) to launch the repository held remotely 
 * select GitHub under __GitHub repository name or URL__ and insert `lorena-gp/food-standards-agency_app`
 * select URL under __Path to a notebook file (optional)__ and insert `voila/render/Food-and-You-survey_risks.ipynb`
+
+### Using the app code provided in the `app` folder
+
+## Licensing
+
+This note is to remind the FSA team that an appropriate software licence should be issued. 
