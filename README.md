@@ -8,13 +8,13 @@ Project outline
 Mishka Nemes https://github.com/mihaelanemes \
 Lorena Garcia Perez https://github.com/lorena-gp \
 Charlie Jeynes https://github.com/charliejeynes \
-James Doherty https://github.com/jimmyd83 \
+James Doherty https://github.com/jimmyd83 
 
 
 ## Timeline
 
 During Science to Data Science school - 23rd of March to 24th of April 2020
-Hosted and organised by [Pivigo][https://www.pivigo.com/]
+Hosted and organised by [Pivigo](https://www.pivigo.com/)
 
 ## Data sources
 
