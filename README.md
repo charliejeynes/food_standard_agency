@@ -32,6 +32,11 @@ Hosted and organised by [Pivigo](https://www.pivigo.com/)
 
 To note the datasets can be swapped for other data, and this can be amended in Line 2 of the masterscript.
 
+## Data wrangling 
+
+
+
+
 ## Contents
 
 ### Dictionary 
@@ -40,10 +45,13 @@ Nested dictionaries to rename values and variables to comprehensible and meaning
 
 ### Custom bar plotting functions
 
-[custom_barplots] is the main function that plots the data that is parsed when the function is called. The output is horizontal barplots that indicate the confidence intervals (variation in the data) and the mean percentage values.
+`custom_barplots` is the main function that plots the data that is parsed when the function is called. The output is horizontal barplots that indicate the confidence intervals (variation in the data) and the mean percentage values. It calls the dictionary to input the relevant question and answer names in the axis labels and the legend. 
+
+
 
 ### Exploratory Data Analysis
-Principal Component Analysis (PCA)
+
+Principal Component Analysis (PCA) was used to explore the raw data in order to understand generic patterns when inputing all the data from F&Y.
 
 
 ### Demographic Analysis and Visualization
@@ -59,4 +67,3 @@ Principal Component Analysis (PCA)
 ## Interactive Dashboard
 
 
-## Further work
