@@ -14,7 +14,7 @@ James Doherty https://github.com/jimmyd83 \
 ## Timeline
 
 During Science to Data Science school - 23rd of March to 24th of April 2020
-Hosted and organised by Pivigo 
+Hosted and organised by [Pivigo][https://www.pivigo.com/]
 
 ## Data sources
 
