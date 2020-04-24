@@ -30,13 +30,6 @@ Hosted and organised by [Pivigo](https://www.pivigo.com/)
 [Census 2011 - microdata with individual entries](https://www.ons.gov.uk/census/2011census/2011censusdata/censusmicrodata/securemicrodata): For data download (isg_regionv2.csv), an account needs to be created [here](https://www.ukdataservice.ac.uk/get-data/how-to-access/registration)
 
 
-## Data wrangling 
-
-**F&Y survey** - values encoded as 'Not applicable' or 'Not known' were encoded as `NaN`  - apart from the principle component analysis where the data was kept in its original state.  
-
-**Census** - given the higher granularity of the data, data was aggregated to reflect the answer labels in F&Y in order to allow direct comparison. There were no missing values as all demographics were provided for each respondent.
-
-
 ## Repository structure
 
 ### `app`
@@ -64,6 +57,12 @@ Hosted and organised by [Pivigo](https://www.pivigo.com/)
 ## Code
 
 Data loading, data wrangling and data analysis are carried out in the `notebooks/masterscript_with_markdown`
+
+### Data wrangling 
+
+**F&Y survey** - values encoded as 'Not applicable' or 'Not known' were encoded as `NaN`  - apart from the principle component analysis where the data was kept in its original state.  
+
+**Census** - given the higher granularity of the data, data was aggregated to reflect the answer labels in F&Y in order to allow direct comparison. There were no missing values as all demographics were provided for each respondent.
 
 ### Dictionaries 
 
