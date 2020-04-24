@@ -1,14 +1,14 @@
 # Food Safety in Wales 
 
-## Project outline
+Project outline
 
 
 ## Team
 
-Mishka Nemes https://github.com/mihaelanemes
-Lorena Garcia Perez
-Charlie Jeynes https://github.com/charliejeynes
-James Doherty
+Mishka Nemes https://github.com/mihaelanemes \
+Lorena Garcia Perez https://github.com/lorena-gp \
+Charlie Jeynes https://github.com/charliejeynes \
+James Doherty https://github.com/jimmyd83 \
 
 
 ## Timeline
