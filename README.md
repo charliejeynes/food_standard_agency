@@ -42,7 +42,7 @@ To note the datasets can be swapped for other data, and this can be amended in L
 
 ### Dictionary 
 
-Nested dictionaries to rename values and variables to comprehensible and meaningful names. The input data is the F&Y survey guide.
+A nested dictionaries was built in order to rename values and variables to comprehensible and meaningful names. The input data is the F&Y survey guide.
 
 ### Custom bar plotting functions
 
@@ -58,16 +58,20 @@ Principal Component Analysis (PCA) was used to explore the raw data in order to 
 
 ### Data Analysis and Visualization
 
-A timeline of percentage representation of F&Y demographics is plotted for the F&Y only using `custom_lineplots`. \
+A timeline of percentage representation of F&Y demographics is plotted for the F&Y only using `custom_lineplots`. 
 
-Demographic variables (age, gender, marital status, religion, health status, work status, deprivation) are compared between F&Y and Census using `custom_barplots`. \
+Demographic variables (age, gender, marital status, religion, health status, work status, deprivation) are compared between F&Y and Census using `custom_barplots`. 
 
-A similar analysis can be applied on selected questions of interest related to risky food behaviour, but only on data collected from F&Y as the census only presents demographic data.
+A similar analysis can be applied on selected questions of interest related to risky food behaviour, but only on data collected from F&Y as the census presents demographic data only.
  
 
 ### Statistical Analysis
 
+The statistical analysis carried out here is using `chi square` as the data is non-parametric (due to the categorical values nature). It tests for statistical significance between different subgroups of data.
+
 ### Correlation Analysis
+
+
 
 ## Interactive Dashboard
 
