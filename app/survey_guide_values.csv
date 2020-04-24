@@ -1,0 +1,3146 @@
+﻿Variable,Vlue,Label
+RespSex,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Male
+,2,Female
+age_dv,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,16-24
+,2,25-34
+,3,35-44
+,4,45-54
+,5,55-64
+,6,65-74
+,7,75+
+bhhsize2,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,One
+,2,Two
+,3,Three
+,4,Four or more
+below6,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Yes
+,2,No
+below16,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Yes
+,2,No
+marstat2,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Married/Civil Partnership/Living with Partner
+,2,Single/Widowed/Divorced/Separated/Other
+hhdinc,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,"<£10,399"
+,2,"£10,400 - £25,999"
+,3,"£26,000 - £51,999"
+,4,">£52,000"
+workstat2,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,In work
+,2,Retired
+,3,Other
+region_dv,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,North East
+,2,North West
+,3,Yorkshire and The Humber
+,4,East Midlands
+,5,West Midlands
+,6,East of England
+,7,London
+,8,South East
+,9,South West
+,10,Wales
+,12,Northern Ireland
+religion_dv,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Christian
+,2,Other religion
+,3,No religion
+wimd_2014_quintile,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Most deprived
+,5,Least deprived
+nimd_2010_quintile,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Most deprived
+,5,Least deprived
+nimd2017_quintile,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Most deprived
+,5,Least deprived
+UrbanRuralInd,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Urban
+,2,Rural
+surveyyear,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Wave 1
+,2,Wave 2
+,3,Wave 3
+,4,Wave 4
+,5,Wave 5
+country_dv,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,England
+,2,Wales
+,3,Northern Ireland
+CkRes,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Responsible for all or most of the preparing/cooking of food
+,2,Responsible for about half of the preparing/cooking of food
+,3,Responsible for less than half of the preparing/cooking of food
+,4,Not responsible for any of the preparing/cooking of food
+,5,Each person is responsible for preparing/cooking their own food
+resfdprp,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+CkFreq,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,At least once a day
+,2,5-6 times a week
+,3,3-4 times a week
+,4,Once or twice a week
+,5,Once a fortnight
+,6,Once a month
+,7,Less than once a month
+,8,Never
+,9,It varies too much to say
+bcook3,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+dietary,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Completely vegetarian
+,2,Vegan
+,3,Not vegetarian/vegan
+fdreac_dv,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Suffer adverse reaction to consuming certain foods
+,2,Avoid certain foods due to the reaction they might cause
+,3,Do not suffer adverse reaction or avoid foods
+reacalle,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+reacint,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+reaccoe,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+reacnoc,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+reacglu,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+reaclac,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+reaccow,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+reacfpi,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+reacoth,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+reacno,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Reaction
+,1,No reaction
+clinaller,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Clinically diagnosed allergy
+,2,No clinically diagnosed allergy
+clinint,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Clinically diagnosed intolerance
+,2,No clinically diagnosed intolerance
+Q2_19,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Yes
+,2,No
+q2_14sub_dv,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,At least once a day
+,2,5-6 times a week
+,3,3-4 times a week
+,4,Once or twice a week
+,5,Once a fortnight
+,6,Once a month
+,7,Less than once a month
+,8,Never
+,98,Don't know
+q2_14su2_dv,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,At least once a day
+,2,5-6 times a week
+,3,3-4 times a week
+,4,Once or twice a week
+,5,Once a fortnight
+,6,Once a month
+,7,Less than once a month
+,8,Never
+,98,Don't know
+q2_14su3_dv,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,At least once a day
+,2,5-6 times a week
+,3,3-4 times a week
+,4,Once or twice a week
+,5,Once a fortnight
+,6,Once a month
+,7,Less than once a month
+,8,Never
+,98,Don't know
+q2_14su4_dv,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,At least once a day
+,2,5-6 times a week
+,3,3-4 times a week
+,4,Once or twice a week
+,5,Once a fortnight
+,6,Once a month
+,7,Less than once a month
+,8,Never
+,98,Don't know
+q2_14su5_dv,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,At least once a day
+,2,5-6 times a week
+,3,3-4 times a week
+,4,Once or twice a week
+,5,Once a fortnight
+,6,Once a month
+,7,Less than once a month
+,8,Never
+,98,Don't know
+q2_14su6_dv,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,At least once a day
+,2,5-6 times a week
+,3,3-4 times a week
+,4,Once or twice a week
+,5,Once a fortnight
+,6,Once a month
+,7,Less than once a month
+,8,Never
+,98,Don't know
+q2_14su6a_dv,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,At least once a day
+,2,5-6 times a week
+,3,3-4 times a week
+,4,Once or twice a week
+,5,Once a fortnight
+,6,Once a month
+,7,Less than once a month
+,8,Never
+,98,Don't know
+q2_14su7_dv,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,At least once a day
+,2,5-6 times a week
+,3,3-4 times a week
+,4,Once or twice a week
+,5,Once a fortnight
+,6,Once a month
+,7,Less than once a month
+,8,Never
+,98,Don't know
+q2_14su7a_dv,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,At least once a day
+,2,5-6 times a week
+,3,3-4 times a week
+,4,Once or twice a week
+,5,Once a fortnight
+,6,Once a month
+,7,Less than once a month
+,8,Never
+,98,Don't know
+Q2_14su8_DV,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,At least once a day
+,2,5-6 times a week
+,3,3-4 times a week
+,4,Once or twice a week
+,5,Once a fortnight
+,6,Once a month
+,7,Less than once a month
+,8,Never
+,98,Don't know
+q2_14su8a_dv,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,At least once a day
+,2,5-6 times a week
+,3,3-4 times a week
+,4,Once or twice a week
+,5,Once a fortnight
+,6,Once a month
+,7,Less than once a month
+,8,Never
+,98,Don't know
+q2_14su8b_dv,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,At least once a day
+,2,5-6 times a week
+,3,3-4 times a week
+,4,Once or twice a week
+,5,Once a fortnight
+,6,Once a month
+,7,Less than once a month
+,8,Never
+,98,Don't know
+q2_14su9_dv,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,At least once a day
+,2,5-6 times a week
+,3,3-4 times a week
+,4,Once or twice a week
+,5,Once a fortnight
+,6,Once a month
+,7,Less than once a month
+,8,Never
+,98,Don't know
+q2_14s10_dv,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,At least once a day
+,2,5-6 times a week
+,3,3-4 times a week
+,4,Once or twice a week
+,5,Once a fortnight
+,6,Once a month
+,7,Less than once a month
+,8,Never
+,98,Don't know
+q2_14s10a_dv,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,At least once a day
+,2,5-6 times a week
+,3,3-4 times a week
+,4,Once or twice a week
+,5,Once a fortnight
+,6,Once a month
+,7,Less than once a month
+,8,Never
+,98,Don't know
+q2_14s12_dv,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,At least once a day
+,2,5-6 times a week
+,3,3-4 times a week
+,4,Once or twice a week
+,5,Once a fortnight
+,6,Once a month
+,7,Less than once a month
+,8,Never
+,98,Don't know
+q2_14s13_dv,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,At least once a day
+,2,5-6 times a week
+,3,3-4 times a week
+,4,Once or twice a week
+,5,Once a fortnight
+,6,Once a month
+,7,Less than once a month
+,8,Never
+,98,Don't know
+q2_14s14_dv,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,At least once a day
+,2,5-6 times a week
+,3,3-4 times a week
+,4,Once or twice a week
+,5,Once a fortnight
+,6,Once a month
+,7,Less than once a month
+,8,Never
+,98,Don't know
+q2_14s14a_dv,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,At least once a day
+,2,5-6 times a week
+,3,3-4 times a week
+,4,Once or twice a week
+,5,Once a fortnight
+,6,Once a month
+,7,Less than once a month
+,8,Never
+,98,Don't know
+q2_14s15_dv,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,At least once a day
+,2,5-6 times a week
+,3,3-4 times a week
+,4,Once or twice a week
+,5,Once a fortnight
+,6,Once a month
+,7,Less than once a month
+,8,Never
+,98,Don't know
+q2_14s16_dv,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,At least once a day
+,2,5-6 times a week
+,3,3-4 times a week
+,4,Once or twice a week
+,5,Once a fortnight
+,6,Once a month
+,7,Less than once a month
+,8,Never
+,98,Don't know
+EatOut1,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+EatOut2,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+EatOut3,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+EatOut4,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+EatOut5,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+EatOut6,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+EatOut7,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+EatOut8,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+EatOut9,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+EatOut10,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+EatOut11,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+eatoutev,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Eats out at all
+,2,Eats out never
+eatoutbdv,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Eats breakfast out at all
+,2,Never eats breakfast out
+eatoutldv,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Eats lunch out at all
+,2,Never eats lunch out
+eatoutddv,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Eats dinner out at all
+,2,Never eats dinner out
+EatOutInfDV_Ex,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+EatOutInfDV_Ap,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+EatOutInfDV_Wr,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+EatOutInfDV_FF,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+EatOutInfDV_Wb,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+EatOutInfDV_Nw,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+EatOutInfDV_WG,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+EatOutInfDV_TV,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+EatOutInfDV_Bk,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+EatOutInfDV_Lf,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+EatOutInfDV_Ad,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+EatOutInfDV_SM,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+EatOutInfDV_Oth,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+EatOutInfDV_None,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q2_35DV_Pr,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q2_35DV_Rv,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q2_35DV_Sv,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q2_35DV_Hy,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q2_35DV_Ca,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q2_35DV_Al,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q2_35DV_Hl,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q2_35DV_Dt,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q2_35DV_None,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q2_35DV_Oth,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q2_37,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Do not eat out or buy food to take home
+,2,Very aware
+,3,Fairly aware
+,4,Neither aware nor unaware
+,5,Fairly unaware
+,6,Very unaware
+,98,Don't know
+q2_37dv,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Aware
+,2,Unaware
+Q2_38DV1,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q2_38DV2,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q2_38DV3,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q2_38DV4,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q2_38DV5,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q2_38DV6,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q2_38DV7,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+q12_1ab,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Yes
+,2,No
+Q3_1,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Responsible for all or most of the food/grocery shopping
+,2,Responsible for about half of the food/grocery shopping
+,3,Responsible for less than half of the food/grocery shopping
+,4,Not responsible for any of the food/grocery shopping
+,5,Each person is responsible for their own food/grocery shopping
+resfdshp,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q3_31,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q3_32,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q3_33,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q3_34,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q3_35,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q3_36,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q3_37,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q3_38,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q3_39,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q3_310,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q3_311,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q3_312,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q3_313,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+provfd1,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Definitely agree
+,2,Tend to agree
+,3,Neither agree nor disagree
+,4,Tend to disagree
+,5,Definitely disagree
+,98,Don't know
+provfd2,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Definitely agree
+,2,Tend to agree
+,3,Neither agree nor disagree
+,4,Tend to disagree
+,5,Definitely disagree
+,98,Don't know
+provfd3,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Definitely agree
+,2,Tend to agree
+,3,Neither agree nor disagree
+,4,Tend to disagree
+,5,Definitely disagree
+,98,Don't know
+provfd4,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Definitely agree
+,2,Tend to agree
+,3,Neither agree nor disagree
+,4,Tend to disagree
+,5,Definitely disagree
+,98,Don't know
+provfd5,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Definitely agree
+,2,Tend to agree
+,3,Neither agree nor disagree
+,4,Tend to disagree
+,5,Definitely disagree
+,98,Don't know
+provfd6,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Definitely agree
+,2,Tend to agree
+,3,Neither agree nor disagree
+,4,Tend to disagree
+,5,Definitely disagree
+,98,Don't know
+provfd7,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Definitely agree
+,2,Tend to agree
+,3,Neither agree nor disagree
+,4,Tend to disagree
+,5,Definitely disagree
+,98,Don't know
+Worried,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Often true
+,2,Sometimes true
+,3,Never true
+FdLast,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Often true
+,2,Sometimes true
+,3,Never true
+HealthyFd,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Often true
+,2,Sometimes true
+,3,Never true
+Q3_131,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q3_132,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q3_133,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q3_134,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q3_135,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q3_136,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q3_137,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q3_138,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q3_139,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q3_1310,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q3_1311,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q3_1312,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+fdsecst,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,0: High food security
+,2,1-2: Marginal food security
+,3,3-5: Low food security
+,4,6-10: Very low food security
+q4_1_4,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Never
+,2,Sometimes
+,3,Most of the time
+,4,Always
+,5,Not applicable
+,98,Don't know
+q4_1_5a,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Never
+,2,Sometimes
+,3,Most of the time
+,4,Always
+,5,Not applicable
+,98,Don't know
+Q4_1_5_comb,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Never
+,2,Sometimes
+,3,Most of the time
+,4,Always
+,5,Not applicable
+,98,Don't know
+q4_1_6,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Never
+,2,Sometimes
+,3,Most of the time
+,4,Always
+,5,Not applicable
+,98,Don't know
+q4_1_7,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Never
+,2,Sometimes
+,3,Most of the time
+,4,Always
+,5,Not applicable
+,98,Don't know
+q4_1_8a,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Never
+,2,Sometimes
+,3,Most of the time
+,4,Always
+,5,Not applicable
+,98,Don't know
+q4_1_8b,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Never
+,2,Sometimes
+,3,Most of the time
+,4,Always
+,5,Not applicable
+,98,Don't know
+sanspray,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Never
+,2,Sometimes
+,3,Most of the time
+,4,Always
+,5,Not applicable
+,98,Don't know
+SprayWipe,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,I spray it and don’t wipe it off
+,2,I spray it and immediately wipe it off
+,3,"I spray it, leave it for a few minutes, and then wipe it off"
+,4,"I spray it, wipe it off, and repeat"
+,5,"I first clean the surface with soapy water, before using spray"
+q4_1_11,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Never
+,2,Sometimes
+,3,Most of the time
+,4,Always
+,5,Not applicable
+,98,Don't know
+q4_1_12,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Never
+,2,Sometimes
+,3,Most of the time
+,4,Always
+,5,Not applicable
+,98,Don't know
+q4_1_13,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Never
+,2,Sometimes
+,3,Most of the time
+,4,Always
+,5,Not applicable
+,98,Don't know
+q4_1_14,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Never
+,2,Sometimes
+,3,Most of the time
+,4,Always
+,5,Not applicable
+,98,Don't know
+q4_1_15,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Never
+,2,Sometimes
+,3,Most of the time
+,4,Always
+,5,Not applicable
+,98,Don't know
+q4_1_16,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Never
+,2,Sometimes
+,3,Most of the time
+,4,Always
+,5,Not applicable
+,98,Don't know
+q4_1_17,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Never
+,2,Sometimes
+,3,Most of the time
+,4,Always
+,5,Not applicable
+,98,Don't know
+q4_1_18,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Never
+,2,Sometimes
+,3,Most of the time
+,4,Always
+,5,Not applicable
+,98,Don't know
+q4_1_19,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Never
+,2,Sometimes
+,3,Most of the time
+,4,Always
+,5,Not applicable
+,98,Don't know
+Q4_1b1,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q4_1b2,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q4_1b3,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q4_1b4,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q4_1b6,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+q4_1b7,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q4_1b5,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+dq4_1bc,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Placing the meat or fish in water
+,2,Leaving the meat or fish at room temperature
+,3,Leaving the meat or fish in the fridge
+,4,Defrosting the meat or fish in the microwave
+,5,Other
+,6,Do not defrost meat or fish
+,98,Don't know
+Q4_31,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q4_32,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q4_33,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q4_34,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q4_35,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q4_36,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q4_37,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q4_38,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q4_39,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q4_310,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q4_311,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q4_312,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q4_8a,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Yes
+,2,No
+Q4_8c1a,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q4_8c1,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q4_8c2,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q4_8c3,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q4_8c4,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q4_8c5,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q4_8c6,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q4_8c7,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q4_8c8,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q4_8c9,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q4_8c9a,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q4_8c10,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q4_9,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Yes
+,2,No
+,3,Someone else in the household does
+,4,I Don't need to - it has an alarm if it is too hot or cold
+,98,Don't know
+Q4_10,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,At least daily
+,2,2-3 times a week
+,3,Once a week
+,4,Less than once a week but more than once a month
+,5,Once a month
+,6,Four times a year
+,7,Once or twice a year
+,8,Never/Less often
+,9,I Don't need to - it has an alarm if it is too hot or cold
+,10,Can t remember
+Q4_111,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q4_112,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q4_113,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q4_114,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q4_115,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q4_116,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q4_117,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q4_12,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Less than 0 degrees C (less than 32 degrees F)
+,2,Between 0 and 5 degrees C (32 to 41 degrees F)
+,3,More than 5 but less than 8 degrees C (42 to 46 degrees F)
+,4,8 to 10 degrees C (47 to 50 degrees F)
+,5,More than 10 degrees C (over 50 degrees F)
+,6,Other (SPECIFY)
+,98,Don't know (SPONTANEOUS ONLY)
+Q4_141,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q4_142,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q4_143,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q4_144,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q4_145,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q4_146,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q4_147,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q4_148,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q4_1410,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q4_149,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+q4_1411,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q4_151,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q4_152,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q4_153,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q4_154,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q4_155,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q4_156,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+q4_157,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+safemeat1,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+safemeat2,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+safemeat3,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+safemeat4,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+safemeat5,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+safemeat6,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+safemeat8,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+safemeat9,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+safemeat10,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+safemeat11,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+safemeat12,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+safemeat13,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+safemeat14,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+safedairy1,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+safedairy2,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+safedairy3,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+safedairy4,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+safedairy5,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+safedairy6,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+safedairy8,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+safedairy9,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+safedairy10,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+safedairy11,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+safedairy12,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+safedairy13,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+safedairy14,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+safecheese1,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+safecheese2,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+safecheese3,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+safecheese4,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+safecheese5,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+safecheese6,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+safecheese8,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+safecheese9,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+safecheese10,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+safecheese11,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+safecheese12,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+safecheese13,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+safecheese14,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+safeegg1,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+safeegg2,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+safeegg3,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+safeegg4,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+safeegg5,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+safeegg6,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+safeegg7,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+safeegg8,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+safeegg9,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+safeegg10,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+safeegg11,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+safeegg12,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+safeegg13,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+safeegg14,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+safefish1,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+safefish2,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+safefish3,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+safefish4,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+safefish5,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+safefish6,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+safefish8,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+safefish9,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+safefish10,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+safefish11,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+safefish12,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+safefish13,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+safefish14,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q4_19b,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Use by date
+,2,Best before date
+,3,Sell by date
+,4,Display until date
+,98,Don't know
+Q6_4,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Very easy to read
+,2,Quite easy to read
+,3,Neither easy nor difficult to read
+,4,Quite difficult to read
+,5,Very difficult to read
+,99,Refused
+Q4_22,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,"Yes, always"
+,2,"Yes, depending on the food type"
+,3,Sometimes
+,4,Never
+,5,Do not cook or prepare food (SPONTANEOUS ONLY)
+,98,Don't know
+q22rp,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Other
+,1,Yes
+Q4_226,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q4_227,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q4_228,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q4_229,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q4_230,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q4_231,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q4_232,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q4_24,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,The same day
+,2,Monday
+,3,Tuesday
+,4,Wednesday
+,5,Thursday
+,6,Friday
+,7,Saturday
+,8,The following Sunday
+,9,More than a week
+,10,Never have leftovers - always finish or throw away immediately
+,98,Don't know
+Q4_25,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Not at all
+,2,Once
+,3,Twice
+,4,Three times
+,5,More than three times
+,98,Don't know
+Q4_261,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q4_262,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q4_263,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q4_264,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q4_265,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q4_266,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q4_267,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q4_268,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q4_269,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q4_2611,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q4_2610,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+q4_2612,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+q4_27_1_slice,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Definitely agree
+,2,Tend to agree
+,3,Neither agree nor disagree
+,4,Tend to disagree
+,5,Definitely disagree
+,98,Don't know
+q4_27_2_slice,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Definitely agree
+,2,Tend to agree
+,3,Neither agree nor disagree
+,4,Tend to disagree
+,5,Definitely disagree
+,98,Don't know
+q4_27_4_slice,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Definitely agree
+,2,Tend to agree
+,3,Neither agree nor disagree
+,4,Tend to disagree
+,5,Definitely disagree
+,98,Don't know
+q4_27_5_slice,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Definitely agree
+,2,Tend to agree
+,3,Neither agree nor disagree
+,4,Tend to disagree
+,5,Definitely disagree
+,98,Don't know
+q4_27_6_slice,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Definitely agree
+,2,Tend to agree
+,3,Neither agree nor disagree
+,4,Tend to disagree
+,5,Definitely disagree
+,98,Don't know
+q4_276dv,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Definitely agree
+,2,Tend to agree
+,3,Neither agree nor disagree
+,4,Tend to disagree
+,5,Definitely disagree
+,98,Don't know
+q4_277dv,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Definitely agree
+,2,Tend to agree
+,3,Neither agree nor disagree
+,4,Tend to disagree
+,5,Definitely disagree
+,98,Don't know
+q4_278dv,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Definitely agree
+,2,Tend to agree
+,3,Neither agree nor disagree
+,4,Tend to disagree
+,5,Definitely disagree
+,98,Don't know
+q4_279dv,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Definitely agree
+,2,Tend to agree
+,3,Neither agree nor disagree
+,4,Tend to disagree
+,5,Definitely disagree
+,98,Don't know
+q4_2710dv,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Definitely agree
+,2,Tend to agree
+,3,Neither agree nor disagree
+,4,Tend to disagree
+,5,Definitely disagree
+,98,Don't know
+q4_2711dv,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Definitely agree
+,2,Tend to agree
+,3,Neither agree nor disagree
+,4,Tend to disagree
+,5,Definitely disagree
+,98,Don't know
+q4_276_dv,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Agree
+,2,Neither agree nor disagree
+,3,Disagree
+q4_277_dv,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Agree
+,2,Neither agree nor disagree
+,3,Disagree
+q4_278_dv,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Agree
+,2,Neither agree nor disagree
+,3,Disagree
+q4_279_dv,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Agree
+,2,Neither agree nor disagree
+,3,Disagree
+q4_2710_dv,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Agree
+,2,Neither agree nor disagree
+,3,Disagree
+q4_2711_dv,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Agree
+,2,Neither agree nor disagree
+,3,Disagree
+q4_27_1_sum,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Agree
+,2,Neither agree nor disagree
+,3,Disagree
+q4_27_2_sum,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Agree
+,2,Neither agree nor disagree
+,3,Disagree
+q4_27_4_sum,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Agree
+,2,Neither agree nor disagree
+,3,Disagree
+q4_27_5_sum,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Agree
+,2,Neither agree nor disagree
+,3,Disagree
+q4_27_6_sum,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Agree
+,2,Neither agree nor disagree
+,3,Disagree
+bpoison,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Yes
+,2,No
+Q4_26b,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Yes more than once
+,2,Yes once
+,3,I think so but I m not sure it was food poisoning
+,4,No
+Q4_28a,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Yes
+,2,No
+,98,Don't know
+Q4_27b,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Yes
+,2,No
+,98,Don't know (SPONTANEOUS ONLY)
+Q4_27c,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Campylobacter
+,2,Salmonella
+,3,E coli
+,4,Listeria
+,5,Viral food poisoning - (SRVSs e.g. shigella)
+,6,Other (specify)
+,7,No - can t remember (spontaneous only)
+Q4_28b1,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q4_28b2,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q4_28b3,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q4_28b4,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q4_28b5,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q4_28b6,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q4_28b7,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q4_28b8,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q11_8bDV1,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q11_8bDV2,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q11_8bDV3,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q11_8bDV4,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q11_8bDV5,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q11_8bDV6,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q11_8bDV7,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q11_8bDV8,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q11_8bDV9,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q11_8bDV10,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q11_8bDV11,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q11_8bDV12,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q11_8bDV13,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q11_8bDV14,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q11_8bDV15,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q11_8bDV16,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q11_8bDV17,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+overallrp,-9,Refused
+,-8,Don't know
+,-5,Missing: overall base less than 5
+,-1,Not applicable
+chemknow1,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Very well informed
+,2,Well informed
+,3,Not well informed
+,4,Not at all informed
+,98,Don't know
+chemknow2,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Very well informed
+,2,Well informed
+,3,Not well informed
+,4,Not at all informed
+,98,Don't know
+chemknow3,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Very well informed
+,2,Well informed
+,3,Not well informed
+,4,Not at all informed
+,98,Don't know
+chemknow4,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Very well informed
+,2,Well informed
+,3,Not well informed
+,4,Not at all informed
+,98,Don't know
+chemiop1,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Definitely agree
+,2,Tend to agree
+,3,Neither agree nor disagree
+,4,Tend to disagree
+,5,Definitely disagree
+,98,Don't know
+chemiop2,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Definitely agree
+,2,Tend to agree
+,3,Neither agree nor disagree
+,4,Tend to disagree
+,5,Definitely disagree
+,98,Don't know
+chemiop3,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Definitely agree
+,2,Tend to agree
+,3,Neither agree nor disagree
+,4,Tend to disagree
+,5,Definitely disagree
+,98,Don't know
+chemiop4,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Definitely agree
+,2,Tend to agree
+,3,Neither agree nor disagree
+,4,Tend to disagree
+,5,Definitely disagree
+,98,Don't know
+healthn,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Healthy
+,2,Neither healthy nor unhealthy
+,3,Unhealthy
+,4,It varies too much to say
+h2_10_dv,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Yes
+,2,No
+h2_11_dv,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Yes
+,2,No
+h2_12_dv,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Yes
+,2,No
+h2_13_dv,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Yes
+,2,No
+h2_14_dv,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Yes
+,2,No
+h2_15_dv,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Yes
+,2,No
+h2_16_dv,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Yes
+,2,No
+h2_17_dv,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Yes
+,2,No
+h2_18_dv,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Yes
+,2,No
+h2_19_dv,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Yes
+,2,No
+H2_21,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Yes
+,2,No
+totcon,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Answer in line with Agency recommendation (5)
+,2,Answer below Agency recommendation (0-4)
+,3,Answer above Agency recommendation (6+)
+totrec,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Answer in line with Agency recommendation (5)
+,2,Answer below Agency recommendation (0-4)
+,3,Answer above Agency recommendation (6+)
+,98,Don't know
+h2_23_dv,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,At least once a day
+,2,5-6 times a week
+,3,3-4 times a week
+,4,Once or twice a week
+,5,Once a fortnight
+,6,Once a month
+,7,Less than once a month
+,8,Never
+h2_24_dv,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,At least once a day
+,2,5-6 times a week
+,3,3-4 times a week
+,4,Once or twice a week
+,5,Once a fortnight
+,6,Once a month
+,7,Less than once a month
+,8,Never
+h2_25_dv,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,At least once a day
+,2,5-6 times a week
+,3,3-4 times a week
+,4,Once or twice a week
+,5,Once a fortnight
+,6,Once a month
+,7,Less than once a month
+,8,Never
+h2_26_dv,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,At least once a day
+,2,5-6 times a week
+,3,3-4 times a week
+,4,Once or twice a week
+,5,Once a fortnight
+,6,Once a month
+,7,Less than once a month
+,8,Never
+h2_27_dv,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,At least once a day
+,2,5-6 times a week
+,3,3-4 times a week
+,4,Once or twice a week
+,5,Once a fortnight
+,6,Once a month
+,7,Less than once a month
+,8,Never
+h2_28_dv,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,At least once a day
+,2,5-6 times a week
+,3,3-4 times a week
+,4,Once or twice a week
+,5,Once a fortnight
+,6,Once a month
+,7,Less than once a month
+,8,Never
+h2_29_dv,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,At least once a day
+,2,5-6 times a week
+,3,3-4 times a week
+,4,Once or twice a week
+,5,Once a fortnight
+,6,Once a month
+,7,Less than once a month
+,8,Never
+h2_40_dv,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not important
+,1,Important
+h2_41_dv,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not important
+,1,Important
+h2_42_dv,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not important
+,1,Important
+h2_43_dv,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not important
+,1,Important
+h2_44_dv,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not important
+,1,Important
+h2_45_dv,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not important
+,1,Important
+h2_46_dv,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not important
+,1,Important
+h2_47_dv,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not important
+,1,Important
+h2_48_dv,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not important
+,1,Important
+h2_49_dv,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not important
+,1,Important
+h2_50_dv,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not important
+,1,Important
+h2_51_dv,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not important
+,1,Important
+h2_52_dv,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not important
+,1,Important
+h2_53_dv,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not important
+,1,Important
+fvcorre,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Fruit and vegetables correctly placed
+,2,Fruit and vegetables not correctly placed
+cacorre,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,"Potatoes, bread, rice, pasta and other starchy carbohydrates placed correctly"
+,2,"Potatoes, bread, rice, pasta and other starchy carbohydrates not correctly placed"
+oicorre,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Oil and spreads correctly placed
+,2,Oil and spreads not correctly placed
+dacorre,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Dairy and alternatives correctly placed
+,2,Dairy and alternatives not correctly placed
+prcorre,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1," Beans, pulses, fish, eggs, meat and other proteins correctly placed"
+,2," Beans, pulses, fish, eggs, meat and other proteins not correctly placed"
+fscorre,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,"Foods high in fat, salt and sugars correctly placed"
+,2,"Foods high in fat, salt and sugars not correctly placed"
+ovcorre,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,All foods in correct proportions
+,2,Not all foods in correct proportions
+H2_19DV1,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+H2_19DV2,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+H2_19DV3,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+H2_19DV4,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+H2_19DV5,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+H2_19DV6,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+H2_19DV7,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+H2_19DV8,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+H2_19DV9,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+H2_19DV10,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+H2_19DV11,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+H2_19DV12,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+H2_19DV13,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+H2_19DV14,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+H2_19DV15,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+h2_25b,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,500 or less
+,2,501 - 1000
+,3,1001 - 1500
+,4,1501 - 1999
+,5,2000
+,6,2001 - 2499
+,7,2500
+,8,2501 - 3000
+,9,3001 - 4000
+,10,4001 - 5000
+,11,5001+
+,98,Don't know
+h2_26b,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,500 or less
+,2,501 - 1000
+,3,1001 - 1500
+,4,1501 - 1999
+,5,2000
+,6,2001 - 2499
+,7,2500
+,8,2501 - 3000
+,9,3001 - 4000
+,10,4001 - 5000
+,11,5001+
+,98,Don't know
+h2_27fb,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,0
+,2,1-20
+,3,21 - 40
+,4,41 - 60
+,5,61 - 69
+,6,70
+,7,71 - 80
+,8,81 - 94
+,9,95
+,10,96 - 100
+,11,101 - 120
+,12,121  - 150
+,13,151 - 200
+,14,201+
+,98,Don't know
+h2_27mb,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,0
+,2,1-20
+,3,21 - 40
+,4,41 - 60
+,5,61 - 69
+,6,70
+,7,71 - 80
+,8,81 - 94
+,9,95
+,10,96 - 100
+,11,101 - 120
+,12,121  - 150
+,13,151 - 200
+,14,201+
+,98,Don't know
+h2_28fb,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,0
+,2,1-19
+,3,20
+,4,21 - 40
+,5,41 - 60
+,6,61 - 69
+,7,70
+,98,Don't know
+h2_28mb,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,0
+,2,1-20
+,3,21 - 29
+,4,30
+,5,31 - 40
+,6,41 - 60
+,7,61 - 69
+,8,70
+,9,71 - 80
+,10,81 - 94
+,11,95
+,98,Don't know
+H2_42,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Up to 0.5g
+,2,0.6-1g
+,3,1g
+,4,2g
+,5,3g
+,6,4g
+,7,5g
+,8,6g
+,9,7g
+,10,8g
+,11,9g
+,12,10g
+,13,11g-15g
+,14,16g-20g
+,15,More than 20g
+,16,Something else (SPECIFY)
+,98,Don't know
+H2_43,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,A lot more healthy when I eat out
+,2,A bit more healthy when I eat out
+,3,About the same
+,4,A bit less healthy when I eat out
+,5,A lot less healthy when I eat out
+,6,SPONTANEOUS ONLY: It varies too much to say
+H2_401,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+H2_402,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+H2_403,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+H2_404,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+H2_405,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+H2_406,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+H2_407,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+H2_408,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+H2_409,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+Q6_1,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Very good
+,2,Good
+,3,Fair
+,4,Bad
+,5,Very bad
+Q6_2_W5,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Yes
+,2,No
+eyesight,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Good/Very Good
+,2,Fair
+,3,Bad/Very bad/Blind
+a1dv,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Low
+,2,Medium
+,3,High
+,98,Don't know
+a2dv,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Low
+,2,Medium
+,3,High
+,98,Don't know
+a3dv,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Low
+,2,Medium
+,3,High
+,98,Don't know
+a4dv_comb,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Low
+,2,Medium
+,3,High
+,98,Don't know
+heardorgc1,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+heardorgc2,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+heardorgc3,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+heardorgc4,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+heardorgc5,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+heardorgc6,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+heardorgc7,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+heardorgc8,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+heardorgc9,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+HeardFSA,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,"No, I hadn’t heard of the Food Standards Agency at all"
+,2,"Yes, I had heard of the Food Standards Agency but didn’t know much about them and/or their responsibilities"
+,3,"Yes, I had heard of the Food Standards Agency and know about their responsibilities"
+C1,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,0
+,1,1
+,2,2
+,3,3
+,4,4
+,5,5
+,6,6
+,7,7
+,8,8
+,9,9
+,10,10
+,98,Don't know
+C2,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,0
+,1,1
+,2,2
+,3,3
+,4,4
+,5,5
+,6,6
+,7,7
+,8,8
+,9,9
+,10,10
+,98,Don't know
+C3,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,0
+,1,1
+,2,2
+,3,3
+,4,4
+,5,5
+,6,6
+,7,7
+,8,8
+,9,9
+,10,10
+,98,Don't know
+C4,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,0
+,1,1
+,2,2
+,3,3
+,4,4
+,5,5
+,6,6
+,7,7
+,8,8
+,9,9
+,10,10
+,98,Don't know
+C5,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,0
+,1,1
+,2,2
+,3,3
+,4,4
+,5,5
+,6,6
+,7,7
+,8,8
+,9,9
+,10,10
+,98,Don't know
+C6,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,0
+,1,1
+,2,2
+,3,3
+,4,4
+,5,5
+,6,6
+,7,7
+,8,8
+,9,9
+,10,10
+,98,Don't know
+C7,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,0
+,1,1
+,2,2
+,3,3
+,4,4
+,5,5
+,6,6
+,7,7
+,8,8
+,9,9
+,10,10
+,98,Don't know
+c1dv,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Low
+,2,Medium
+,3,High
+,98,Don't know
+c2dv,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Low
+,2,Medium
+,3,High
+,98,Don't know
+c3dv,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Low
+,2,Medium
+,3,High
+,98,Don't know
+c4dv,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Low
+,2,Medium
+,3,High
+,98,Don't know
+c5dv,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Low
+,2,Medium
+,3,High
+,98,Don't know
+c6dv,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Low
+,2,Medium
+,3,High
+,98,Don't know
+c7dv,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Low
+,2,Medium
+,3,High
+,98,Don't know
+D1,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Very sure
+,2,Quite sure
+,3,Neither sure nor unsure
+,4,Quite unsure
+,5,Very unsure
+D2,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Very sure
+,2,Quite sure
+,3,Neither sure nor unsure
+,4,Quite unsure
+,5,Very unsure
+D3,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Very sure
+,2,Quite sure
+,3,Neither sure nor unsure
+,4,Quite unsure
+,5,Very unsure
+D4,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Very sure
+,2,Quite sure
+,3,Neither sure nor unsure
+,4,Quite unsure
+,5,Very unsure
+D5,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Very sure
+,2,Quite sure
+,3,Neither sure nor unsure
+,4,Quite unsure
+,5,Very unsure
+Label,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,1,Always
+,2,Most of the time
+,3,Some of the time
+,4,Rarely
+,5,Never
+,98,Don't know
+FdAuthAct_MC1,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+FdAuthAct_MC2,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+FdAuthAct_MC3,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+FdAuthAct_MC4,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+FdAuthAct_MC5,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+FdAuthAct_MC6,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+FdAuthAct_MC7,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+FdAuthAct_MC8,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned
+FdAuthAct_MC9,-9,Refused
+,-8,Don't know
+,-1,Not applicable
+,0,Not mentioned
+,1,Mentioned

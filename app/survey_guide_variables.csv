@@ -1,0 +1,515 @@
+﻿Variable,Position,Label,Measurement Level
+SerialNo,1,Serial Number,Scale
+RespSex,2,Gender,Nominal
+age_dv,3,(D) Age of respondent in bands: W4-5,Scale
+bhhsize2,4,(D) Household size (4 categories),Nominal
+below6,5,(D) Children under 6 in household,Scale
+below16,6,(D) Children under 16 in household,Scale
+marstat2,7,(D) Marital status,Scale
+hhdinc,8,(D) Household income,Scale
+workstat2,9,(D) Working Status (3 categories),Scale
+region_dv,10,(D) Region,Nominal
+religion_dv,11,(D) Religion,Scale
+wimd_2014_quintile,12,Wales - WIMD 2015 - Overall rank - QUINTILE,Nominal
+nimd_2010_quintile,13,Northern Ireland - NIMD 2010 - QUINTILE,Nominal
+nimd2017_quintile,14,Northern Ireland - NIMD 2017 - Overall rank - QUINTILE,Nominal
+UrbanRuralInd,15,(D) Net Urban-Rural Classification,Nominal
+surveyyear,16,(D) Survey Year,Nominal
+country_dv,17,(D) Country,Nominal
+psu_dv,18,primary sample unit,Scale
+stratum_all_dv,19,Strata,Scale
+combinedW1_5weight,20,(D) Combined all countries calibration weight core+boost+extra (scaled to countries %),Scale
+countryW1_5weight,21,(D) Combined all countries calibration weight core+boost+extra,Scale
+CkRes,22,"Over a typical week, which of these best describes the level of responsibility you have for preparing and cooking food in your household?",Nominal
+resfdprp,23,(D) Respondent responsibility for preparing/cooking food,Nominal
+CkFreq,24,"How often do you cook or prepare food for yourself, or others?",Nominal
+bcook3,25,(D) Cook or prepare food - never,Nominal
+dietary,26,(D) Dietary restrictions,Nominal
+fdreac_dv,27,(D) Suffer adverse reaction or avoid foods due to reaction,Nominal
+reacalle,28,Food allergy,Nominal
+reacint,29,Food intolerance,Nominal
+reaccoe,30,Coeliac disease,Nominal
+reacnoc,31,Non-coeliac gluten sensitivity,Nominal
+reacglu,32,Gluten intolerance,Nominal
+reaclac,33,Lactose intolerance,Nominal
+reaccow,34,Cow's milk intolerance,Nominal
+reacfpi,35,Food protein-induced enterocolitis syndrome (FPIES),Nominal
+reacoth,36,Other type of reaction,Nominal
+reacno,37,No reaction,Nominal
+clinaller,38,(D) Clinically diagnosed allergy,Nominal
+clinint,39,(D) Clinically diagnosed intolerance,Nominal
+Q2_19,40,"And does anyone in your household, other than you, have a food allergy?",Nominal
+q2_14sub_dv,41,"(D) At the moment, how often do you eat cuts or portions of beef, lamb or pork?",Nominal
+q2_14su2_dv,42,"(D) At the moment, how often do you eat burgers?",Nominal
+q2_14su3_dv,43,"(D) At the moment, how often do you eat sausages?",Nominal
+q2_14su4_dv,44,"(D) At the moment, how often do you eat chicken or turkey?",Nominal
+q2_14su5_dv,45,"(D) At the moment, how often do you eat duck or goose?",Nominal
+q2_14su6_dv,46,"(D) At the moment, how often do you eat pre-cooked meats (e.g. ham or meat pate)?",Nominal
+q2_14su6a_dv,47,"(D) At the moment, how often do you eat cured or dried meats?",Nominal
+q2_14su7_dv,48,"(D) At the moment, how often do you eat milk and dairy foods?",Nominal
+q2_14su7a_dv,49,"(D) At the moment, how often do you eat raw milk?",Nominal
+Q2_14su8_DV,50,(D) At the moment: How often do you eat eggs?,Nominal
+q2_14su8a_dv,51,"(D) At the moment, how often do you eat cooked eggs?",Nominal
+q2_14su8b_dv,52,"(D) At the moment, how often do you eat raw or uncooked eggs?",Nominal
+q2_14su9_dv,53,"(D) At the moment, how often do you eat smoked fish excluding shellfish?",Nominal
+q2_14s10_dv,54,"(D) At the moment, how often do you eat cooked shellfish?",Nominal
+q2_14s10a_dv,55,"(D) At the moment, how often do you eat raw oysters?",Nominal
+q2_14s12_dv,56,"(D) At the moment, how often do you eat raw fruit?",Nominal
+q2_14s13_dv,57,"(D) At the moment, how often do you eat raw vegetables including salad?",Nominal
+q2_14s14_dv,58,"(D) At the moment, how often do you eat cooked vegetables?",Nominal
+q2_14s14a_dv,59,"(D) At the moment, how often do you eat frozen fruits?",Nominal
+q2_14s15_dv,60,"(D) At the moment, how often do you eat pre-packed sandwiches?",Nominal
+q2_14s16_dv,61,"(D) At the moment, how often do you eat ready meals?",Nominal
+EatOut1,62,Eaten in a restaurant,Nominal
+EatOut2,63,Eaten takeaway food from a restaurant or takeaway outlet,Nominal
+EatOut3,64,Eaten in a fast food restaurant,Nominal
+EatOut4,65,Got food to take away from a fast food restaurant,Nominal
+EatOut5,66,Eaten in a pub/ bar/ nightclub,Nominal
+EatOut6,67,Eaten in a café or coffee shop,Nominal
+EatOut7,68,"Bought food or drink from a café, coffee shop or sandwich bar to take away",Nominal
+EatOut8,69,"Eaten food from a canteen (e.g. at work, school, university, or hospital)",Nominal
+EatOut9,70,"Eaten in a hotel, B&B or guesthouse",Nominal
+EatOut10,71,Eaten food from a mobile food van or stall,Nominal
+EatOut11,72,None of these,Nominal
+eatoutev,73,(D) Eats out at all,Nominal
+eatoutbdv,74,(D) Ever eats breakfast out,Nominal
+eatoutldv,75,(D) Ever eats lunch out,Nominal
+eatoutddv,76,(D) Ever eats dinner out,Nominal
+EatOutInfDV_Ex,77,Own experience of the place,Nominal
+EatOutInfDV_Ap,78,Appearance of the place,Nominal
+EatOutInfDV_Wr,79,Word of mouth,Nominal
+EatOutInfDV_FF,80,Recommendations from friends/family,Nominal
+EatOutInfDV_Wb,81,"Customer reviews on websites or mobile apps e.g. TripAdvisor, Yelp, Google reviews etc.",Nominal
+EatOutInfDV_Nw,82,Print or online editions of newspaper/magazine features or reviews,Nominal
+EatOutInfDV_WG,83,"Online restaurant guides e.g. Time Out, Square Meal",Nominal
+EatOutInfDV_TV,84,Television programmes,Nominal
+EatOutInfDV_Bk,85,Books e.g. restaurant guides,Nominal
+EatOutInfDV_Lf,86,Leaflets/flyers,Nominal
+EatOutInfDV_Ad,87,"Media advertising e.g. television, radio, magazines, newspapers",Nominal
+EatOutInfDV_SM,88,Social media,Nominal
+EatOutInfDV_Oth,89,Other,Nominal
+EatOutInfDV_None,90,None of these,Nominal
+Q2_35DV_Pr,91,Price,Nominal
+Q2_35DV_Rv,92,Recommendations or invitation from someone you know/good reviews,Nominal
+Q2_35DV_Sv,93,Good service,Nominal
+Q2_35DV_Hy,94,A good hygiene rating/score,Nominal
+Q2_35DV_Ca,95,Calorie information of the food is provided,Nominal
+Q2_35DV_Al,96,Allergy information of the food is provided,Nominal
+Q2_35DV_Hl,97,Healthier foods/choices,Nominal
+Q2_35DV_Dt,98,"Food for different diets such as Vegetarian, Halal, Kosher etc.",Nominal
+Q2_35DV_None,99,None of these,Nominal
+Q2_35DV_Oth,100,Something else,Nominal
+Q2_37,101,"When you eat out, at places such as at restaurants, cafes, pubs and takeaways, or buy food to take home to eat from supermarkets or shops, how aware would you say you generally are about their standards of hygiene?",Nominal
+q2_37dv,102,"(D) Q2_37 When you eat out, how aware would you say you generally are about standards of hygiene",Nominal
+Q2_38DV1,103,Word of mouth,Nominal
+Q2_38DV2,104,Reputation,Nominal
+Q2_38DV3,105,Appearance of staff,Nominal
+Q2_38DV4,106,General appearance of premises,Nominal
+Q2_38DV5,107,Hygiene rating / score,Nominal
+Q2_38DV6,108,Customer reviews on websites / mobile apps,Nominal
+Q2_38DV7,109,Other,Nominal
+q12_1ab,110,(D) Have you ever seen any of these before?,Nominal
+Q3_1,111,"Thinking about food/grocery shopping, which of these best describes the level of responsibility you have for shopping in your household?",Nominal
+resfdshp,112,(D) Respondent responsibility for food/grocery shopping,Nominal
+Q3_31,113,Where household shops for food: Large supermarket,Nominal
+Q3_32,114,Where household shops for food: Mini supermarket e.g. Metro/Local,Nominal
+Q3_33,115,Where household shops for food: Local/corner shop (including newsagents),Nominal
+Q3_34,116,Where household shops for food: Garage forecourt,Nominal
+Q3_35,117,Where household shops for food: Independent greengrocer,Nominal
+Q3_36,118,Where household shops for food: Independent butcher,Nominal
+Q3_37,119,Where household shops for food: Independent baker,Nominal
+Q3_38,120,Where household shops for food: Independent fishmonger,Nominal
+Q3_39,121,Where household shops for food: Market (including stalls or farmer's markets),Nominal
+Q3_310,122,Where household shops for food: Farm,Nominal
+Q3_311,123,Where household shops for food: Home delivery - from a supermarket,Nominal
+Q3_312,124,Where household shops for food: Home delivery (including vegetable boxes) - not from a supermarket,Nominal
+Q3_313,125,Where household shops for food: Other shop,Nominal
+provfd1,126,"(D) When buying food, I check to see where it was produced",Nominal
+provfd2,127,"(D) Where possible, I prefer to buy food produced in Britain/the UK and Ireland",Nominal
+provfd3,128,"(D) I have greater trust in the quality of food produced in Britain/the UK and Ireland, compared to food imported from overseas",Nominal
+provfd4,129,(D) Food produced in Britain/the UK and Ireland tastes better than food imported from overseas,Nominal
+provfd5,130,(D) It is important to support British farmers and food producers/farmers and food producers in the UK and Ireland,Nominal
+provfd6,131,(D) Food produced in Britain/the UK and Ireland tends to be more expensive than food imported from overseas,Nominal
+provfd7,132,(D) I would be prepared to pay more for food and drink that is produced in Britain/the UK and Ireland,Nominal
+Worried,133,In the last 12 months have been worried whether food would run out before have enough money to buy more,Nominal
+FdLast,134,"In the last 12 months the food bought just did not last, and didn't have money to get more",Nominal
+HealthyFd,135,In the last 12 months couldn't afford to eat balanced meals,Nominal
+Q3_131,136,Changes made in the last 6 months for financial reasons: Eaten at home more,Nominal
+Q3_132,137,Changes made in the last 6 months for financial reasons: Cooked at home more,Nominal
+Q3_133,138,Changes made in the last 6 months for financial reasons: Eaten fewer takeaways,Nominal
+Q3_134,139,Changes made in the last 6 months for financial reasons: Eaten out less,Nominal
+Q3_135,140,Changes made in the last 6 months for financial reasons: Made packed lunches more,Nominal
+Q3_136,141,Changes made in the last 6 months for financial reasons: Bought items that were on special offer more,Nominal
+Q3_137,142,Changes made in the last 6 months for financial reasons: Changed the places you buy food for cheaper alternatives,Nominal
+Q3_138,143,Changes made in the last 6 months for financial reasons: Changed the food you buy to cheaper alternatives,Nominal
+Q3_139,144,Changes made in the last 6 months for financial reasons: Prepared food that could be kept as leftovers more,Nominal
+Q3_1310,145,Changes made in the last 6 months for financial reasons: Kept leftovers for longer before eating,Nominal
+Q3_1311,146,Changes made in the last 6 months for financial reasons: Eaten food past its use-by-date more,Nominal
+Q3_1312,147,Changes made in the last 6 months for financial reasons: None of these,Nominal
+fdsecst,148,(D) Food security status,Nominal
+q4_1_4,149,(D) Use different chopping boards for different foods,Nominal
+q4_1_5a,150,(D) Store open tins in the fridge,Nominal
+Q4_1_5_comb,151,(D) Wash raw meat and poultry (W3-5: other than chicken),Nominal
+q4_1_6,152,(D) Wash raw chicken,Nominal
+q4_1_7,153,(D) Wash raw fish or seafood,Nominal
+q4_1_8a,154,(D) Wash fruit and vegetables to be eaten raw,Nominal
+q4_1_8b,155,(D) Wash fruit and vegetables to be eaten cooked,Nominal
+sanspray,156,(D) Use any antibacterial surface sanitising spray or wipes to clean kitchen work surfaces,Nominal
+SprayWipe,157,"And when you use surface sanitising spray, which of the things listed on this card do you usually do?",Nominal
+q4_1_11,158,(D) Wash hands before starting to prepare or cook food,Nominal
+q4_1_12,159,"(D) Wash hands after handling raw meat, poultry or fish",Nominal
+q4_1_13,160,(D) Cook food until it's steaming hot throughout,Nominal
+q4_1_14,161,(D) Eat chicken or turkey if the meat is pink or has pink or red juices,Nominal
+q4_1_15,162,(D) Eat red meat if the meat is pink or has pink or red juices,Nominal
+q4_1_16,163,(D) Eat duck if the meat is pink or has pink or red juices,Nominal
+q4_1_17,164,(D) Eat burgers if the meat is pink or has pink or red juices,Nominal
+q4_1_18,165,(D) Eat sausages if the meat is pink or has pink or red juices,Nominal
+q4_1_19,166,(D) Eat whole cuts of pork or pork chops if the meat is pink or has pink or red juices,Nominal
+Q4_1b1,167,Methods used to defrost frozen meat or fish: Placing the meat or fish in water,Nominal
+Q4_1b2,168,Methods used to defrost frozen meat or fish: Leaving the meat or fish at room temperature,Nominal
+Q4_1b3,169,Methods used to defrost frozen meat or fish: Leaving the meat or fish in the fridge,Nominal
+Q4_1b4,170,Methods used to defrost frozen meat or fish: Defrosting the meat or fish in the microwave oven,Nominal
+Q4_1b6,171,Methods used to defrost frozen meat or fish: Do not defrost meat or fish,Nominal
+q4_1b7,172,Methods used to defrost frozen meat or fish: Don't know,Nominal
+Q4_1b5,173,Methods used to defrost frozen meat or fish: Other,Nominal
+dq4_1bc,174,(D) Q4_1B/ Q4_1C Which method do you generally use to defrost frozen meat or fish?,Nominal
+Q4_31,175,"Reasons for washing chopping board after using it to prepare raw meat, poultry or fish: To stop remains of it getting onto the next food",Nominal
+Q4_32,176,"Reasons for washing chopping board after using it to prepare raw meat, poultry or fish: It can be dangerous if you don’t",Nominal
+Q4_33,177,"Reasons for washing chopping board after using it to prepare raw meat, poultry or fish: To stop the flavour/ taste transferring to other foods",Nominal
+Q4_34,178,"Reasons for washing chopping board after using it to prepare raw meat, poultry or fish: To get rid of the mess",Nominal
+Q4_35,179,"Reasons for washing chopping board after using it to prepare raw meat, poultry or fish: As it looks dirty",Nominal
+Q4_36,180,"Reasons for washing chopping board after using it to prepare raw meat, poultry or fish: To wash away germs/bacteria",Nominal
+Q4_37,181,"Reasons for washing chopping board after using it to prepare raw meat, poultry or fish: To prevent cross contamination",Nominal
+Q4_38,182,"Reasons for washing chopping board after using it to prepare raw meat, poultry or fish: To prevent food poisoning",Nominal
+Q4_39,183,"Reasons for washing chopping board after using it to prepare raw meat, poultry or fish: It's a habit",Nominal
+Q4_310,184,"Reasons for washing chopping board after using it to prepare raw meat, poultry or fish: It’s just what people do / are told to do",Nominal
+Q4_311,185,"Reasons for washing chopping board after using it to prepare raw meat, poultry or fish: Don't know why",Nominal
+Q4_312,186,"Reasons for washing chopping board after using it to prepare raw meat, poultry or fish: Other",Nominal
+Q4_8a,187,"Do you have the use of a kitchen, that is, a separate room in which you cook?",Nominal
+Q4_8c1a,188,Appliances in household: Fridge with built in freezer compartment,Nominal
+Q4_8c1,189,"Appliances in household: Combined fridge and freezer, these have separate doors but are part of the same unit",Nominal
+Q4_8c2,190,Appliances in household: Separate fridge,Nominal
+Q4_8c3,191,Appliances in household: Separate freezer,Nominal
+Q4_8c4,192,Appliances in household: Dishwasher,Nominal
+Q4_8c5,193,Appliances in household: Oven,Nominal
+Q4_8c6,194,"Appliances in household: Grill, including as part of a combined oven",Nominal
+Q4_8c7,195,"Appliances in household: Hob, including as part of a combined oven",Nominal
+Q4_8c8,196,"Appliances in household: Microwave oven, including as part of a conventional oven",Nominal
+Q4_8c9,197,Appliances in household: Kettle,Nominal
+Q4_8c9a,198,Appliances in household: Toaster,Nominal
+Q4_8c10,199,Appliances in household: None of these,Nominal
+Q4_9,200,Do you ever check your fridge temperature?,Nominal
+Q4_10,201,How often do you or another person in your household check the temperature of the fridge?,Nominal
+Q4_111,202,Check the setting / gauge of fridge,Nominal
+Q4_112,203,Check the temperature display/ thermometer built into the fridge,Nominal
+Q4_113,204,Put a thermometer in the fridge and check,Nominal
+Q4_114,205,Look inside/check for ice/condensation,Nominal
+Q4_115,206,Feel food inside to see if it is cold,Nominal
+Q4_116,207,Don't know,Nominal
+Q4_117,208,Other,Nominal
+Q4_12,209,What do you think the temperature inside your fridge should be?,Nominal
+Q4_141,210,Where in the fridge do you store raw meat and poultry: Anywhere,Nominal
+Q4_142,211,Where in the fridge do you store raw meat and poultry: On the bottom shelf of the fridge,Nominal
+Q4_143,212,Where in the fridge do you store raw meat and poultry: At the top of the fridge,Nominal
+Q4_144,213,Where in the fridge do you store raw meat and poultry: Away from cooked foods,Nominal
+Q4_145,214,Where in the fridge do you store raw meat and poultry: In a separate compartment e.g. a meat drawer or salad tray,Nominal
+Q4_146,215,Where in the fridge do you store raw meat and poultry: In the middle of the fridge,Nominal
+Q4_147,216,Where in the fridge do you store raw meat and poultry: Wherever there is space,Nominal
+Q4_148,217,Where in the fridge do you store raw meat and poultry: Other,Nominal
+Q4_1410,218,Where in the fridge do you store raw meat and poultry: Don't store raw meat\poultry in the fridge,Nominal
+Q4_149,219,Where in the fridge do you store raw meat and poultry: Don't buy or store meat or poultry at all,Nominal
+q4_1411,220,Where in the fridge do you store raw meat and poultry: Don't know,Nominal
+Q4_151,221,How do you store raw meat and poultry in the fridge: Away from cooked foods,Nominal
+Q4_152,222,How do you store raw meat and poultry in the fridge: Covered with film \ foil,Nominal
+Q4_153,223,How do you store raw meat and poultry in the fridge: In a covered container,Nominal
+Q4_154,224,How do you store raw meat and poultry in the fridge: In its packaging,Nominal
+Q4_155,225,How do you store raw meat and poultry in the fridge: On a plate,Nominal
+Q4_156,226,How do you store raw meat and poultry in the fridge: Other,Nominal
+q4_157,227,How do you store raw meat and poultry in the fridge: Don't know,Nominal
+safemeat1,228,"How can you tell whether raw meat like beef, lamb, pork or poultry is safe to eat or use in cooking: How it looks",Nominal
+safemeat2,229,"How can you tell whether raw meat like beef, lamb, pork or poultry is safe to eat or use in cooking: The colour of it",Nominal
+safemeat3,230,"How can you tell whether raw meat like beef, lamb, pork or poultry is safe to eat or use in cooking: How it smells",Nominal
+safemeat4,231,"How can you tell whether raw meat like beef, lamb, pork or poultry is safe to eat or use in cooking: How it tastes",Nominal
+safemeat5,232,"How can you tell whether raw meat like beef, lamb, pork or poultry is safe to eat or use in cooking: What it feels like/ the texture",Nominal
+safemeat6,233,"How can you tell whether raw meat like beef, lamb, pork or poultry is safe to eat or use in cooking Whether it has been stored correctly",Nominal
+safemeat8,234,"How can you tell whether raw meat like beef, lamb, pork or poultry is safe to eat or use in cooking: Best before date",Nominal
+safemeat9,235,"How can you tell whether raw meat like beef, lamb, pork or poultry is safe to eat or use in cooking: Use by date",Nominal
+safemeat10,236,"How can you tell whether raw meat like beef, lamb, pork or poultry is safe to eat or use in cooking: Sell by or display until date",Nominal
+safemeat11,237,"How can you tell whether raw meat like beef, lamb, pork or poultry is safe to eat or use in cooking: Date unspecified",Nominal
+safemeat12,238,"How can you tell whether raw meat like beef, lamb, pork or poultry is safe to eat or use in cooking: Other",Nominal
+safemeat13,239,"How can you tell whether raw meat like beef, lamb, pork or poultry is safe to eat or use in cooking: Not applicable",Nominal
+safemeat14,240,"How can you tell whether raw meat like beef, lamb, pork or poultry is safe to eat or use in cooking: Don't know",Nominal
+safedairy1,241,How can you tell whether milk and yoghurt is safe to eat or use in cooking: How it looks,Nominal
+safedairy2,242,How can you tell whether milk and yoghurt is safe to eat or use in cooking: The colour of it,Nominal
+safedairy3,243,How can you tell whether milk and yoghurt is safe to eat or use in cooking: How it smells,Nominal
+safedairy4,244,How can you tell whether milk and yoghurt is safe to eat or use in cooking: How it tastes,Nominal
+safedairy5,245,How can you tell whether milk and yoghurt is safe to eat or use in cooking: What it feels like/ the texture,Nominal
+safedairy6,246,How can you tell whether milk and yoghurt is safe to eat or use in cooking: Whether it has been stored correctly,Nominal
+safedairy8,247,How can you tell whether milk and yoghurt is safe to eat or use in cooking: Best before date,Nominal
+safedairy9,248,How can you tell whether milk and yoghurt is safe to eat or use in cooking: Use by date,Nominal
+safedairy10,249,How can you tell whether milk and yoghurt is safe to eat or use in cooking: Sell by or display until date,Nominal
+safedairy11,250,How can you tell whether milk and yoghurt is safe to eat or use in cooking: Date unspecified,Nominal
+safedairy12,251,How can you tell whether milk and yoghurt is safe to eat or use in cooking: Other,Nominal
+safedairy13,252,How can you tell whether milk and yoghurt is safe to eat or use in cooking: Not applicable,Nominal
+safedairy14,253,How can you tell whether milk and yoghurt is safe to eat or use in cooking: Don't know,Nominal
+safecheese1,254,How can you tell whether cheese is safe to eat or use in cooking: How it looks,Nominal
+safecheese2,255,How can you tell whether cheese is safe to eat or use in cooking: The colour of it,Nominal
+safecheese3,256,How can you tell whether cheese is safe to eat or use in cooking: How it smells,Nominal
+safecheese4,257,How can you tell whether cheese is safe to eat or use in cooking: How it tastes,Nominal
+safecheese5,258,How can you tell whether cheese is safe to eat or use in cooking: What it feels like/ the texture,Nominal
+safecheese6,259,How can you tell whether cheese is safe to eat or use in cooking: Whether it has been stored correctly,Nominal
+safecheese8,260,How can you tell whether cheese is safe to eat or use in cooking: Best before date,Nominal
+safecheese9,261,How can you tell whether cheese is safe to eat or use in cooking: Use by date,Nominal
+safecheese10,262,How can you tell whether cheese is safe to eat or use in cooking: Sell by or display until date,Nominal
+safecheese11,263,How can you tell whether cheese is safe to eat or use in cooking: Date unspecified,Nominal
+safecheese12,264,How can you tell whether cheese is safe to eat or use in cooking: Other,Nominal
+safecheese13,265,How can you tell whether cheese is safe to eat or use in cooking: Not applicable,Nominal
+safecheese14,266,How can you tell whether cheese is safe to eat or use in cooking: Don't know,Nominal
+safeegg1,267,How can you tell whether egg is safe to eat or use in cooking: How it looks,Nominal
+safeegg2,268,How can you tell whether egg is safe to eat or use in cooking: The colour of it,Nominal
+safeegg3,269,How can you tell whether egg is safe to eat or use in cooking: How it smells,Nominal
+safeegg4,270,How can you tell whether egg is safe to eat or use in cooking: How it tastes,Nominal
+safeegg5,271,How can you tell whether egg is safe to eat or use in cooking: What it feels like/ the texture,Nominal
+safeegg6,272,How can you tell whether egg is safe to eat or use in cooking: Whether it has been stored correctly,Nominal
+safeegg7,273,How can you tell whether egg is safe to eat or use in cooking: It doesn't float in water,Nominal
+safeegg8,274,How can you tell whether egg is safe to eat or use in cooking: Best before date,Nominal
+safeegg9,275,How can you tell whether egg is safe to eat or use in cooking: Use by date,Nominal
+safeegg10,276,How can you tell whether egg is safe to eat or use in cooking: Sell by or display until date,Nominal
+safeegg11,277,How can you tell whether egg is safe to eat or use in cooking: Date unspecified,Nominal
+safeegg12,278,How can you tell whether egg is safe to eat or use in cooking: Other,Nominal
+safeegg13,279,How can you tell whether egg is safe to eat or use in cooking: Not applicable,Nominal
+safeegg14,280,How can you tell whether egg is safe to eat or use in cooking: Don't know,Nominal
+safefish1,281,How can you tell whether fish excluding shellfish is safe to eat or use in cooking: How it looks,Nominal
+safefish2,282,How can you tell whether fish excluding shellfish is safe to eat or use in cooking: The colour of it,Nominal
+safefish3,283,How can you tell whether fish excluding shellfish is safe to eat or use in cooking: How it smells,Nominal
+safefish4,284,How can you tell whether fish excluding shellfish is safe to eat or use in cooking: How it tastes,Nominal
+safefish5,285,How can you tell whether fish excluding shellfish is safe to eat or use in cooking: What it feels like/ the texture,Nominal
+safefish6,286,How can you tell whether fish excluding shellfish is safe to eat or use in cooking: Whether it has been stored correctly,Nominal
+safefish8,287,How can you tell whether fish excluding shellfish is safe to eat or use in cooking: Best before date,Nominal
+safefish9,288,How can you tell whether fish excluding shellfish is safe to eat or use in cooking: Use by date,Nominal
+safefish10,289,How can you tell whether fish excluding shellfish is safe to eat or use in cooking: Sell by or display until date,Nominal
+safefish11,290,How can you tell whether fish excluding shellfish is safe to eat or use in cooking: Date unspecified,Nominal
+safefish12,291,How can you tell whether fish excluding shellfish is safe to eat or use in cooking: Other,Nominal
+safefish13,292,How can you tell whether fish excluding shellfish is safe to eat or use in cooking: Not applicable,Nominal
+safefish14,293,How can you tell whether fish excluding shellfish is safe to eat or use in cooking: Don't know,Nominal
+Q4_19b,294,Which of these is the best indicator of whether food is safe to eat?,Nominal
+Q6_4,295,"How easy do you find it to read the labelling on food products (e.g. ingredients, nutrition or storage information) in terms of the size of the print (using glasses or contact lenses if you wear them)?",Nominal
+Q4_22,296,Do you check use-by dates when you are about to cook or prepare food?,Nominal
+q22rp,297,(D) Do you check use by dates when you are about to cook or prepare food?,Nominal
+Q4_226,298,Which of these indicates whether food is safe to eat: Use by date,Nominal
+Q4_227,299,Which of these indicates whether food is safe to eat: Best before date,Nominal
+Q4_228,300,Which of these indicates whether food is safe to eat: Sell by date,Nominal
+Q4_229,301,Which of these indicates whether food is safe to eat: Display until date,Nominal
+Q4_230,302,Which of these indicates whether food is safe to eat: None of these,Nominal
+Q4_231,303,Which of these indicates whether food is safe to eat: It depends,Nominal
+Q4_232,304,Which of these indicates whether food is safe to eat: Don't know,Nominal
+Q4_24,305,"If you made a meal on Sunday, what is the last day that you would consider eating the leftovers? (Spontaneous)",Nominal
+Q4_25,306,How many times would you consider re-heating food after it was cooked for the first time?,Nominal
+Q4_261,307,How do you usually tell food has been re-heated properly: Steam coming from it,Nominal
+Q4_262,308,How do you usually tell food has been re-heated properly: Taste it,Nominal
+Q4_263,309,How do you usually tell food has been re-heated properly: Stir it,Nominal
+Q4_264,310,How do you usually tell food has been re-heated properly: Check the middle is hot,Nominal
+Q4_265,311,How do you usually tell food has been re-heated properly: Check it's an even temperature throughout,Nominal
+Q4_266,312,How do you usually tell food has been re-heated properly: Put hand over it/touch it,Nominal
+Q4_267,313,How do you usually tell food has been re-heated properly: Use a thermometer/probe,Nominal
+Q4_268,314,How do you usually tell food has been re-heated properly: Use a timer to ensure it has been cooked for a certain amount of time,Nominal
+Q4_269,315,How do you usually tell food has been re-heated properly: It looks hot,Nominal
+Q4_2611,316,How do you usually tell food has been re-heated properly: Other,Nominal
+Q4_2610,317,How do you usually tell food has been re-heated properly: I don't check,Nominal
+q4_2612,318,How do you usually tell food has been re-heated properly: Don't know,Nominal
+q4_27_1_slice,319,(D) I always avoid throwing food away,Nominal
+q4_27_2_slice,320,(D) I am unlikely to get food poisoning from food prepared in my own home,Nominal
+q4_27_4_slice,321,(D) If you eat out a lot you are more likely to get food poisoning,Nominal
+q4_27_5_slice,322,(D) Restaurants and catering establishments should pay more attention to food safety and hygiene,Nominal
+q4_27_6_slice,323,(D) I often worry about whether the food I have is safe to eat,Nominal
+q4_276dv,324,(D) I like trying new things to eat,Nominal
+q4_277dv,325,(D) I enjoy cooking and preparing food,Nominal
+q4_278dv,326,(D) I'm not generally interested in food,Nominal
+q4_279dv,327,(D) I don’t have time to spend preparing and cooking food,Nominal
+q4_2710dv,328,(D) When preparing food I could be more careful about hygiene,Nominal
+q4_2711dv,329,(D) There is too much plastic used in food packaging,Nominal
+q4_276_dv,330,(D) I like trying new things to eat - net agree/disagree,Nominal
+q4_277_dv,331,(D) I enjoy cooking and preparing food - net agree/disagree,Nominal
+q4_278_dv,332,(D) I'm not generally interested in food - net agree/disagree,Nominal
+q4_279_dv,333,(D) I don't have time to spend preparing and cooking food - net agree/disagree,Nominal
+q4_2710_dv,334,(D) When preparing food I could be more careful about hygiene - net agree/disagree,Nominal
+q4_2711_dv,335,(D) There is too much plastic used in food packaging - net agree/disagree,Nominal
+q4_27_1_sum,336,(D) I always avoid throwing food away - net agree/disagree,Nominal
+q4_27_2_sum,337,(D) I am unlikely to get food poisoning from food prepared in my own home - net agree/disagree,Nominal
+q4_27_4_sum,338,(D) If you eat out a lot you are more likely to get food poisoning - net agree/disagree,Nominal
+q4_27_5_sum,339,(D) Restaurants and catering establishments should pay more attention to food safety and hygiene - net agree/disagree,Nominal
+q4_27_6_sum,340,(D) I often worry about whether the food I have is safe to eat - net agree/disagree,Nominal
+bpoison,341,(D) Whether had food poisoning,Nominal
+Q4_26b,342,Have you had food poisoning in the last year?,Nominal
+Q4_28a,343,Did you see a doctor or go to hospital because of it?,Nominal
+Q4_27b,344,Whether food poisoning was medically diagnosed,Nominal
+Q4_27c,345,Type of food poisoning,Nominal
+Q4_28b1,346,"Since you most recently had food poisoning, have you: Tried to get more information about the issue",Nominal
+Q4_28b2,347,"Since you most recently had food poisoning, have you: Read food labels more carefully",Nominal
+Q4_28b3,348,"Since you most recently had food poisoning, have you: Changed the way you cook food",Nominal
+Q4_28b4,349,"Since you most recently had food poisoning, have you: Changed the way you prepare food",Nominal
+Q4_28b5,350,"Since you most recently had food poisoning, have you: Stopped eating certain foods",Nominal
+Q4_28b6,351,"Since you most recently had food poisoning, have you: Stopped eating at certain food establishments (e.g. restaurants/cafes)",Nominal
+Q4_28b7,352,"Since you most recently had food poisoning, have you: Other",Nominal
+Q4_28b8,353,"Since you most recently had food poisoning, have you: Took no action",Nominal
+Q11_8bDV1,354,Whether get information about how to prepare and cook food safely at home from: Family and friends,Nominal
+Q11_8bDV2,355,Whether get information about how to prepare and cook food safely at home from: School / college / a course,Nominal
+Q11_8bDV3,356,Whether get information about how to prepare and cook food safely at home from: Work,Nominal
+Q11_8bDV4,357,Whether get information about how to prepare and cook food safely at home from: Retailers (e.g. supermarkets),Nominal
+Q11_8bDV5,358,Whether get information about how to prepare and cook food safely at home from: Newspapers,Nominal
+Q11_8bDV6,359,Whether get information about how to prepare and cook food safely at home from: News websites,Nominal
+Q11_8bDV7,360,Whether get information about how to prepare and cook food safely at home from: Food TV shows / cooking programmes,Nominal
+Q11_8bDV8,361,Whether get information about how to prepare and cook food safely at home from: Food magazines,Nominal
+Q11_8bDV9,362,Whether get information about how to prepare and cook food safely at home from: Food websites,Nominal
+Q11_8bDV10,363,Whether get information about how to prepare and cook food safely at home from: TV / radio campaigns,Nominal
+Q11_8bDV11,364,Whether get information about how to prepare and cook food safely at home from: Books,Nominal
+Q11_8bDV12,365,Whether get information about how to prepare and cook food safely at home from: Internet search engine,Nominal
+Q11_8bDV13,366,Whether get information about how to prepare and cook food safely at home from: Social media,Nominal
+Q11_8bDV14,367,Whether get information about how to prepare and cook food safely at home from: Product packaging,Nominal
+Q11_8bDV15,368,Whether get information about how to prepare and cook food safely at home from: Doctor / GP,Nominal
+Q11_8bDV16,369,Whether get information about how to prepare and cook food safely at home from: Other (specify),Nominal
+Q11_8bDV17,370,Whether get information about how to prepare and cook food safely at home from: I don't look for information on food safety,Nominal
+overallrp,371,(D) New (revised) IRP,Nominal
+chemknow1,372,"(D) Chemicals deliberately added to food by producers (e.g. colourings, sweeteners, preservatives)",Nominal
+chemknow2,373,"(D) Chemical residues from the food production process (e.g. pesticides, veterinary medicines)",Nominal
+chemknow3,374,"(D) Chemicals that can occur naturally in food (e.g. naturally occuring toxins, heavy metals such as lead)",Nominal
+chemknow4,375,(D) Chemicals that can be formed during the cooking process (e.g. through cooking at high temperatures or through smoking of food),Nominal
+chemiop1,376,(D) The benefits of using chemicals in food production outweigh the risks,Nominal
+chemiop2,377,(D) I would like more information about what I can personally do to limit the presence of chemicals in food,Nominal
+chemiop3,378,(D) I am concerned about possible long-term health effects of chemicals in food,Nominal
+chemiop4,379,(D) I believe the presence of chemicals in food is well regulated,Nominal
+healthn,380,"(D) H2_1 Overall, in your opinion, would you say that what you usually eat is .. Net healthy/unhealthy",Nominal
+h2_10_dv,381,(D) H2_10 Do you think frozen vegetables can be counted towards the daily fruit and vegetable intake ?,Nominal
+h2_11_dv,382,(D) H2_10 Do you think jam can be counted towards the daily fruit and vegetable intake ?,Nominal
+h2_12_dv,383,(D) H2_10 Do you think pure fruit juice can be counted towards the daily fruit and vegetable intake ?,Nominal
+h2_13_dv,384,(D) H2_10 Do you think jacket potato can be counted towards the daily fruit and vegetable intake ?,Nominal
+h2_14_dv,385,"(D) H2_10 Do you think dried fruit, for example raisins or apricots can be counted towards the daily fruit and vegetable intake ?",Nominal
+h2_15_dv,386,(D) H2_10 Do you think rice can be counted towards the daily fruit and vegetable intake ?,Nominal
+h2_16_dv,387,"(D) H2_10 Do you think tinned fruit or vegetables, for example, peaches or sweetcorn can be counted towards the daily fruit and vegetable intake ?",Nominal
+h2_17_dv,388,(D) H2_10 Do you think fruit smoothies can be counted towards the daily fruit and vegetable intake ?,Nominal
+h2_18_dv,389,"(D) H2_10 Do you think pulses such as lentils, chick peas or kidney beans can be counted towards the daily fruit and vegetable intake ?",Nominal
+h2_19_dv,390,(D) H2_10 Do you think baked beans can be counted towards the daily fruit and vegetable intake ?,Nominal
+H2_20,391,"Thinking just about YESTERDAY can you tell me how many portions of vegetables - including salad, fresh, frozen or tinned vegetables you ate?",Nominal
+H2_21,392,Thinking just about YESTERDAY did you have a portion of fruit juice?,Nominal
+H2_22,393,"Thinking just about YESTERDAY can you tell me how many portions of fruit - fresh, frozen, tinned or dried you ate?",Nominal
+dh2_11_12_13,394,(D) H2_11/H2_12/H2_13 Total number of portions of fruit and vegetables consumed yesterday?,Nominal
+totcon,395,(D) H2_11/H2_12/H2_13 Total number of portions of fruit and vegetables consumed yesterday?,Nominal
+totrec,396,(D) How many portions of fruit and vegetables do you think that health experts recommend people should eat every day?,Nominal
+h2_23_dv,397,"(D) H2_14 At the moment, how often do you eat biscuits, pastries and cakes ?",Nominal
+h2_24_dv,398,"(D) H2_14 At the moment, how often do you eat sweets and chocolate?",Nominal
+h2_25_dv,399,"(D) H2_14 At the moment, how often do you eat savoury snacks (e.g. crisps)?",Nominal
+h2_26_dv,400,"(D) H2_14 At the moment, how often do you eat bread, rice, pasta, potatoes and other starchy foods?",Nominal
+h2_27_dv,401,"(D) H2_14 At the moment, how often do you eat fried chips or roast potatoes?",Nominal
+h2_28_dv,402,"(D) H2_14 At the moment, how often do you eat oily fish, like salmon, sardines, mackerel or fresh tuna?",Nominal
+h2_29_dv,403,"(D) H2_14 At the moment, how often do you eat fruit and vegetables?",Nominal
+h2_40_dv,404,"(D) Eating foods such as bread, rice, pasta and potatoes (net important)",Nominal
+h2_41_dv,405,(D) Eating fruit and vegetables (net important),Nominal
+h2_42_dv,406,"(D) Eating fish, including oily fish (net important)",Nominal
+h2_43_dv,407,(D) Limiting foods high in saturated fat (net important),Nominal
+h2_44_dv,408,(D) Limiting foods high in total fat (net important),Nominal
+h2_45_dv,409,(D) Limiting food and drinks high in sugar (net important),Nominal
+h2_46_dv,410,(D) Eating less salt (net important),Nominal
+h2_47_dv,411,(D) Keeping to a healthy weight (net important),Nominal
+h2_48_dv,412,(D) Drinking plenty of water (net important),Nominal
+h2_49_dv,413,(D) Eating breakfast every day (net important),Nominal
+h2_50_dv,414,(D) Eating white meat such as chicken or turkey (net important),Nominal
+h2_51_dv,415,"(D) Eating dairy produce such as cheese, milk or yoghurt (net important)",Nominal
+h2_52_dv,416,"(D) Eating pulses such as soya beans, lentils or chickpeas (net important)",Nominal
+h2_53_dv,417,(D) Eating the right amount of calories each day (net important),Nominal
+fvcorre,418,(D) EatWell guide exercise -  Fruit and vegetables correctly placed,Nominal
+cacorre,419,"(D) EatWell guide exercise - Potatoes, bread, rice, pasta and other starchy carbohydrates correctly placed",Nominal
+oicorre,420,(D) EatWell guide exercise - Oil and spreads correctly placed,Nominal
+dacorre,421,(D) EatWell guide exercise - Dairy and alternatives correctly placed,Nominal
+prcorre,422,"(D) EatWell guide exercise - Beans, pulses, fish, eggs, meat and other proteins correctly placed",Nominal
+fscorre,423,"(D) EatWell guide exercise - Foods high in fat, salt and sugars correctly placed",Nominal
+ovcorre,424,(D) Past/present EatWell exercise - overall correct,Nominal
+H2_19DV1,425,"Eating more bread, rice, potatoes, pasta and other starchy foods",Nominal
+H2_19DV2,426,"Eating less bread, rice, potatoes, pasta and other starchy foods",Nominal
+H2_19DV3,427,Eating more fruit and vegetables,Nominal
+H2_19DV4,428,"Eating more fish, including oily fish",Nominal
+H2_19DV5,429,Eating less food high in saturated fat,Nominal
+H2_19DV6,430,Eating less food high in fat in general,Nominal
+H2_19DV7,431,Eating less food high in sugar,Nominal
+H2_19DV8,432,Eating less meat,Nominal
+H2_19DV9,433,"Eating less salt, for example eating less salty food, not adding salt during cooking or to a meal before eating",Nominal
+H2_19DV10,434,Eating fewer calories,Nominal
+H2_19DV11,435,Eating more calories,Nominal
+H2_19DV12,436,Eating larger portions,Nominal
+H2_19DV13,437,Eating smaller portions,Nominal
+H2_19DV14,438,None of these,Nominal
+H2_19DV15,439,Other,Nominal
+h2_25b,440,(D) H2_25 Can you tell me what you think is the recommended number of calories average women should eat a day? (Spontaneous),Nominal
+h2_26b,441,(D) H2_26 Can you tell me what you think is the recommended number of calories average men should eat a day? (Spontaneous),Nominal
+h2_27fb,442,"(D) H2_27(women) How much fat, in grams, do you think an average woman should eat each day? (Spontaneous)",Nominal
+h2_27mb,443,"(D) H2_27(men) How much fat, in grams, do you think an average man should eat each day? (Spontaneous)",Nominal
+h2_28fb,444,"(D) H2_28(women) It is recommended that the average woman should eat no more than 70g of fat a day. How much of this, in grams, do you think is the maximum recommended amount of saturated fats? (Spontaneous)",Nominal
+h2_28mb,445,"(D) H2_28(men) It is recommended that the average man should eat no more than 95g of fat a day. How much of this, in grams, do you think is the maximum recommended amount of saturated fats? (Spontaneous)",Nominal
+H2_42,446,It is recommended that we should eat no more than a certain amount of salt each day. How much salt do you think this is for adults?,Nominal
+H2_43,447,"In your opinion, when you eat out, how healthy would you say the food that you eat is, compared to when you eat at home?",Nominal
+H2_401,448,Restaurants,Nominal
+H2_402,449,Pubs,Nominal
+H2_403,450,"Cafes, Coffee shops and sandwich shops",Nominal
+H2_404,451,Fast food restaurants,Nominal
+H2_405,452,Workplace canteens,Nominal
+H2_406,453,"Food outlets in cinemas, bowling alleys, theme parks or other leisure facilities",Nominal
+H2_407,454,"Takeaway outlets e.g. Indian, Chinese, Pizza, fish and chips",Nominal
+H2_408,455,Street food stalls or pop out,Nominal
+H2_409,456,None of these,Nominal
+Q6_1,457,General health status,Nominal
+Q6_2_W5,458,Whether have any physical or mental health conditions or illnesses lasting 12 months or more,Nominal
+eyesight,459,"(D) At the present time, how would you rate your eyesight using both eyes (with glasses or contact lenses, if you wear them)?",Nominal
+a1dv,460,"(D) And now a general question about trust. On a scale from zero to ten, where zero is not at all and ten is completely, in general how much do you trust most people? (summary)",Nominal
+a2dv,461,"(D) On a scale from zero to ten, where zero is not at all and ten is completely, in general how much do you trust most people you know personally? (summary)",Nominal
+a3dv,462,(D) Trust of The British Parliament,Nominal
+a4dv_comb,463,(D) Trust of the police,Nominal
+heardorgc1,464,"Whether heard of: Department of Health, now also known as Department of Health and Social Care (DHSC)",Nominal
+heardorgc2,465,Whether heard of: Public Health England (PHE) / Public Health Agency (PHA),Nominal
+heardorgc3,466,Whether heard of: Food Standards Agency (FSA),Nominal
+heardorgc4,467,Whether heard of: National Institute for Health and Care Excellence (NICE),Nominal
+heardorgc5,468,"Whether heard of: Department for Environment, Food and Rural Affairs (DEFRA)",Nominal
+heardorgc6,469,"Whether heard of: OFCOM, Office of Communications",Nominal
+heardorgc7,470,Whether heard of: Health and Safety Executive (HSE),Nominal
+heardorgc8,471,"Whether heard of: Northern Ireland agencies (DHSSPS, Safefood, DAERA)",Nominal
+heardorgc9,472,Whether heard of: None of these organisations,Nominal
+HeardFSA,473,Had you heard of the Food Standards Agency before you were contacted to take part in this interview?,Nominal
+C1,474,"If you wanted to report a food related issue to the FSA, how likely or unlikely do you think it would be that the problem would be looked into?",Nominal
+C2,475,"If there was a food poisoning outbreak, how likely or unlikely do you think it would be that the FSA would take action to protect the public?",Nominal
+C3,476,"If new evidence about food safety came to light, how likely or unlikely do you think it would be that the FSA would inform the public?",Nominal
+C4,477,"If new evidence about food safety came to light, how likely or unlikely do you think it would be that the FSA would respond as soon as possible?",Nominal
+C5,478,"If new evidence about food safety came to light, how likely or unlikely do you think it would be that the FSA would tell the truth about it to the public?",Nominal
+C6,479,"In general, how likely or unlikely do you think it is that the FSA is impartial? By this we mean that the FSA acts independently or external sources?",Nominal
+C7,480,"In general, how likely or unlikely do you think it would be that the FSA puts the public first?",Nominal
+c1dv,481,"(D) If you wanted to report a food related issue to the FSA, how likely or unlikely do you think it would be that the problem would be looked into? (summary)",Nominal
+c2dv,482,"(D) If there was a food poisoning outbreak, how likely or unlikely do you think it would be that the FSA would take action to protect the public? (summary)",Nominal
+c3dv,483,"(D) If new evidence about food safety came to light, how likely or unlikely do you think it would be that the FSA would inform the public? (summary)",Nominal
+c4dv,484,"(D) If new evidence about food safety came to light, how likely or unlikely do you think it would be that the FSA would respond as soon as possible? (summary)",Nominal
+c5dv,485,"(D) If new evidence about food safety came to light, how likely or unlikely do you think it would be that the FSA would tell the truth about it to the public? (summary)",Nominal
+c6dv,486,"(D) In general, how likely or unlikely do you think it is that the FSA is impartial? By this we mean that the FSA acts independently or external sources? (summary)",Nominal
+c7dv,487,"(D) In general, how likely or unlikely do you think it would be that the FSA puts the public first? (summary)",Nominal
+D1,488,"If you were buying food and groceries in Britain, how sure or unsure would you be that you know where the food has come from?",Nominal
+D2,489,"If you were buying food and groceries in Britain, how sure or unsure would you be that the food that comes from Britain has been prepared to the highest quality standards?",Nominal
+D3,490,"If you were buying food and groceries in Britain, how sure or unsure would you be that the food that comes from abroad has been prepared to the highest quality standards?",Nominal
+D4,491,"If you were buying food and groceries in Britain, how sure or unsure would you be that all the guidelines have been properly followed at all stages in bringing food from the farm to your house?",Nominal
+D5,492,"If you were buying food and groceries in Britain, how sure or unsure would you be that foods bought for your household are safe to eat?",Nominal
+Label,493,"In general, when buying or eating food, how often do you feel confident that it is what is says it is on the label or the menu?",Nominal
+FdAuthAct_MC1,494,Action taken as not confident that food was what it said it was: Tried to get more information about the issue,Nominal
+FdAuthAct_MC2,495,Action taken as not confident that food was what it said it was: Read about the issue when you saw it but did not seek out,Nominal
+FdAuthAct_MC3,496,Action taken as not confident that food was what it said it was: Read food labels more carefully,Nominal
+FdAuthAct_MC4,497,Action taken as not confident that food was what it said it was: Changed the way you cook food,Nominal
+FdAuthAct_MC5,498,Action taken as not confident that food was what it said it was: Changed the way you prepare food,Nominal
+FdAuthAct_MC6,499,Action taken as not confident that food was what it said it was: Stopped shopping for food at certain places,Nominal
+FdAuthAct_MC7,500,Action taken as not confident that food was what it said it was: Stopped eating certain foods,Nominal
+FdAuthAct_MC8,501,Action taken as not confident that food was what it said it was: Other action,Nominal
+FdAuthAct_MC9,502,Action taken as not confident that food was what it said it was: Took no action,Nominal
+,,,
+,,,
+,,,
+,,,
+FdAuthAct_MC2,515,Read about the issue when you saw it but did not seek out,Nominal
+FdAuthAct_MC3,516,Read food labels more carefully,Nominal
+FdAuthAct_MC4,517,Changed the way you cook food,Nominal
+FdAuthAct_MC5,518,Changed the way you prepare food,Nominal
+FdAuthAct_MC6,519,Stopped shopping for food at certain places,Nominal
+FdAuthAct_MC7,520,Stopped eating certain foods,Nominal
+FdAuthAct_MC8,521,Other (specify),Nominal
+FdAuthAct_MC9,522,Took no action,Nominal
