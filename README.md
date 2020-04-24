@@ -34,7 +34,7 @@ To note the datasets can be swapped for other data, and this can be amended in L
 
 ## Data wrangling 
 
-**F&Y** - missing values in the questions answers encoded by negative value when respondents did not answer questions are all encoded as `NaN` \\
+**F&Y** - missing values in the questions answers encoded by negative value when respondents did not answer questions are all encoded as `NaN` \
 **Census** - given the higher granularity of the data, data was aggregated to reflect the answer labels in F&Y in order to allow direct comparison. There were no missing values as all demographics were provided for each respondent.
 
 
