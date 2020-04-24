@@ -65,11 +65,11 @@ Hosted and organised by [Pivigo](https://www.pivigo.com/)
 
 Data loading, data wrangling and data analysis are carried out in the `notebooks/masterscript_with_markdown`
 
-### Dictionary 
+### Dictionaries 
 
 Two dictionaries were built. The first one translates question names from their short version to their longer, comprehensible, version. The second is a nested dictionary that translates individual answers to each question from their numeric code to a meaningful answer. Their input data is provided in this repository.
 
-### Custom bar plotting functions
+### Custom plotting functions
 
 `custom_barplots` is a custom plotting function that outputs horizontal barplots with the percentage of people giving a certain answer, and 95% confidence intervals error bars. The names for each of the relevant questions and answers are displayed automatically for each plot title, axis labels and legend thanks to the use of the two dictionaries built. \
 `custom_lineplots` is a custom plotting function that ouputs lineplots showing the temporal evolution of the F&Y survey demographics, for Wales, England and Northern Ireland (whose results appear side-by-side, for ease of comparison between the trends for these UK countries). 95% confidence intervals error bars are also displayed, together with the number of respondents (n) and the specific percentage represented by each category. The names for each of the relevant questions and answers are displayed automatically for each plot title, axis labels and legend thanks to the use of the two dictionaries built.
