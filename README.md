@@ -35,7 +35,10 @@ To note the datasets can be swapped for other data, and this can be amended in L
 ## Contents
 
 ### Dictionary 
-Custom bar plotting functions
+
+Nested dictionaries to rename values and variables to comprehensible and meaningful names. The input data is the F&Y survey guide.
+
+### Custom bar plotting functions
 Exploratory Data Analysis - Principal Component Analysis (PCA)
 Demographic Analysis and Visualization
 Statistical Analysis 
