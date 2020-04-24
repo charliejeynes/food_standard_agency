@@ -47,7 +47,7 @@ Nested dictionaries to rename values and variables to comprehensible and meaning
 ### Custom bar plotting functions
 
 `custom_barplots` is the main function that plots the data that is parsed when the function is called. The output is horizontal barplots that indicate the confidence intervals (variation in the data) and the mean percentage values. It calls the dictionary to input the relevant question and answer names in the axis labels and the legend. \
-`custom_lineplots` takes the F&Y data to plot it over time (i.e. survey years) and yields a group of plots side by side that can illustrate how a certain variable changes over temporally according to a third variable (e.g. country). The output is  lineplots that indicate the confidence intervals (variation in the data) and the number of respondents in each category. It calls the dictionary to input the relevant question and answer names in the axis labels and the legend. \
+`custom_lineplots` takes the F&Y data to plot it over time (i.e. survey years) and yields a group of plots side by side that can illustrate how a certain variable changes over temporally according to a third variable (e.g. country). The output is  lineplots that indicate the confidence intervals (variation in the data) and the number of respondents in each category. It calls the dictionary to input the relevant question and answer names in the axis labels and the legend. 
 
 
 
@@ -56,10 +56,14 @@ Nested dictionaries to rename values and variables to comprehensible and meaning
 Principal Component Analysis (PCA) was used to explore the raw data in order to understand generic patterns when inputing all the data from F&Y.
 
 
-### Demographic Analysis and Visualization
+### Data Analysis and Visualization
 
+A timeline of percentage representation of F&Y demographics is plotted for the F&Y only using `custom_lineplots`. \
 
-### Food Behaviour Analysis
+Demographic variables (age, gender, marital status, religion, health status, work status, deprivation) are compared between F&Y and Census using `custom_barplots`. \
+
+A similar analysis can be applied on selected questions of interest related to risky food behaviour, but only on data collected from F&Y as the census only presents demographic data.
+ 
 
 ### Statistical Analysis
 
