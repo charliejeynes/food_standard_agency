@@ -33,7 +33,7 @@ Hosted and organised by [Pivigo](https://www.pivigo.com/)
 ## Repository structure
 
 ### `app`
-* includes everything required to run the dashboard (the `.ipynb` file, together with a requirements.txt and the F&Y survey `.csv` data files). A `.png` file is included, showing which settings to use to run the app from the github repository where it is currently hosted (`lorena-gp/food-standards-agency_app`) by using mybinder (https://mybinder.org/).\
+* includes everything required to run the dashboard (the `.ipynb` file, together with a requirements.txt and the F&Y survey `.csv` data files). A `.png` file is included, showing which settings to use to run the app from the github repository where it is currently hosted (`lorena-gp/food-standards-agency_app`) by using mybinder (https://mybinder.org/) \
 In order to have this app available for anyone online, the relevant files must be localted in a public repository of choice. These files need to be all in the same folder, whihc has to be located just under the main github repository of choice.
 
 ### `data`
