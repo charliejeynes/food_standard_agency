@@ -75,13 +75,13 @@ Two dictionaries were built. The first one translates question names from their 
 
 ### Data Visualization
 
-Principal Component Analysis (PCA) is used to explore the raw data in order to understand global patterns present within the whole F&Y dataset for Wales.
-
 A timeline of the evolution of the F&Y survey demographics is plotted using `custom_lineplots`. 
 
 Demographic variables (age, gender, marital status, religion, health status, work status, deprivation) are compared between the F&Y survey and the census using `custom_barplots`. 
 
 Demographic variables are also taken into consideration for the analysis of questions of interest related to food safety, using the F&Y survey data and `custom_barplots`.
+
+Principal Component Analysis (PCA) is used to explore the raw data in order to understand global patterns present within the whole F&Y dataset for Wales.
 
 ### Statistical Analysis
 
@@ -98,7 +98,7 @@ Correlation analysis is performed on the F&Y survey data to identify which featu
 The dashboard components can be executed within the notebook, where further instructions are included.
 
 ### On a website
-In order to access the dashboard online:
+In order to access the dashboard online, there are two options. Go to a website such as [this](https://mybinder.org/v2/gh/lorena-gp/food-standards-agency_app/master?urlpath=voila%2Frender%2FFood-and-You-survey_risks.ipynb), where the app has been set up to render. Or, alternatively, set up website rendering from scratch by following these steps:
 * go to [Binder](https://mybinder.org/)
-* select GitHub under __GitHub repository name or URL__ and insert the appropiate path name (for example, `my-repository/app`) for the remote open repository where the dashboard code is hosted (such as the `app` folder in here). 
+* select GitHub under __GitHub repository name or URL__ and insert the appropiate path name (for example, `lorena-gp/food-standards-agency_app`) for the remote open repository where the dashboard code is hosted (such as the `app` folder in here). 
 * select URL under __Path to a notebook file (optional)__ and insert `voila/render/Food-and-You-survey_risks.ipynb`
