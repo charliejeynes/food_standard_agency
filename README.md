@@ -34,7 +34,7 @@ Hosted and organised by [Pivigo](https://www.pivigo.com/)
 
 ### `app`
 * includes everything required to run the dashboard (the `.ipynb` file, together with a requirements.txt and the F&Y survey `.csv` data files). A `.png` file is included, showing which settings to use to run the app from the github repository where it is currently hosted (`lorena-gp/food-standards-agency_app`) by using mybinder (https://mybinder.org/) \
-In order to have this app available for anyone online, the relevant files must be localted in a public repository of choice. These files need to be all in the same folder, which has to be located just under the main github repository of choice
+In order to have this app available for anyone online, the relevant files must be located in a public repository of choice. These files need to be all in the same folder, which has to be located just under the main github repository of choice
 
 ### `data`
 *  `microdata_census2011_Wales_prepared.csv` has all the relevant demographic data from the 2011 Census. This includes only the Wales entries for 7 out of 120 original demographics.
@@ -47,7 +47,7 @@ In order to have this app available for anyone online, the relevant files must b
 * `S2DS-2020_FSA_Wales_case_study.pdf` - executive summary of the challenge, approach, findings, impact and recommendations 
 
 ### `graphs`
-* Graphs within the `.pdf` files starting with `foodBehaviour_` can also be visuialized in the dashboard provided here. A greater variety of graphs related to food behaviours by demographics can be visualized on demand by using the dahboard.
+* Graphs within the `.pdf` files starting with `foodBehaviour_` can also be visualized in the dashboard provided here. A greater variety of graphs related to food behaviours by demographics can be visualized on demand by using the dashboard.
 * All other `.pdf` files contain graphs that can be plotted only by running the notebook. These are exhaustive in light of the current data.
 
 ### `notebooks` 
@@ -72,7 +72,7 @@ Two dictionaries were built. The first one translates question names from their 
 ### Custom plotting functions
 
 `custom_barplots` is a custom plotting function that outputs horizontal barplots with the percentage of people giving a certain answer, and 95% confidence intervals error bars. The names for each of the relevant questions and answers are displayed automatically for each plot title, axis labels and legend thanks to the use of the two dictionaries built. \
-`custom_lineplots` is a custom plotting function that ouputs lineplots showing the temporal evolution of the F&Y survey demographics, for Wales, England and Northern Ireland (whose results appear side-by-side, for ease of comparison between the trends for these UK countries). 95% confidence intervals error bars are also displayed, together with the number of respondents (n) and the specific percentage represented by each category. The names for each of the relevant questions and answers are displayed automatically for each plot title, axis labels and legend thanks to the use of the two dictionaries built.
+`custom_lineplots` is a custom plotting function that outputs lineplots showing the temporal evolution of the F&Y survey demographics, for Wales, England and Northern Ireland (whose results appear side-by-side, for ease of comparison between the trends for these UK countries). 95% confidence intervals error bars are also displayed, together with the number of respondents (n) and the specific percentage represented by each category. The names for each of the relevant questions and answers are displayed automatically for each plot title, axis labels and legend thanks to the use of the two dictionaries built.
 
 ### Data Visualization
 
@@ -90,7 +90,7 @@ To evaluate the significance of the differences under study, `chi square` statis
 
 ### Correlation Analysis and Predictive Modelling
 
-Correlation analysis is performed on the F&Y survey data to identify which features (questions and their respective answers) correlate the most, positevely or negatively, with the risk of suffering food poisoning.  A preliminary precitive model is also developed, which informs again about the set of the features most relevant for determining food poisoning risk. To fully assess the predictive capability of this model, further work is required.
+Correlation analysis is performed on the F&Y survey data to identify which features (questions and their respective answers) correlate the most, positively or negatively, with the risk of suffering food poisoning.  A preliminary predictive model is also developed, which informs again about the set of the features most relevant for determining food poisoning risk. To fully assess the predictive capability of this model, further work is required.
 
 
 ## Interactive Dashboard
@@ -101,5 +101,5 @@ The dashboard components can be executed within the notebook, where further inst
 ### On a website
 In order to access the dashboard online, there are two options. Go to a website such as [this](https://mybinder.org/v2/gh/lorena-gp/food-standards-agency_app/master?urlpath=voila%2Frender%2FFood-and-You-survey_risks.ipynb), where the app has been set up to render. Or, alternatively, set up website rendering from scratch by following these steps:
 * go to [Binder](https://mybinder.org/)
-* select GitHub under __GitHub repository name or URL__ and insert the appropiate path name (for example, `lorena-gp/food-standards-agency_app`) for the remote open repository where the dashboard code is hosted (such as the `app` folder in here). 
+* select GitHub under __GitHub repository name or URL__ and insert the appropriate path name (for example, `lorena-gp/food-standards-agency_app`) for the remote open repository where the dashboard code is hosted (such as the `app` folder in here). 
 * select URL under __Path to a notebook file (optional)__ and insert `voila/render/Food-and-You-survey_risks.ipynb`
